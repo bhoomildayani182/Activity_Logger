@@ -4,9 +4,10 @@
 // const ObjectID = mongodb.ObjectId
 
 const { MongoClient, ObjectID, ObjectId } = require('mongodb')
+const logger = require('./logger')
 
 const connectionURL = 'mongodb://127.0.0.1:27017'
-const databaseName = 'task-manager'
+// const databaseName = 'task-manager'
 
 // const id = new ObjectID()
 // console.log(id.id.length)
@@ -14,9 +15,10 @@ const databaseName = 'task-manager'
 
 MongoClient.connect(connectionURL, { useNewUrlParser: true }, (error, client)=>{
     if(error){
-        return console.log('Unable to connect to database!')
+        return logger.error('Unable to connect to database!')
     }
-    const db = client.db(databaseName)
+    
+    // const db = client.db(databaseName)
 
 //creating a data
     
@@ -145,11 +147,11 @@ MongoClient.connect(connectionURL, { useNewUrlParser: true }, (error, client)=>{
 
     ///Deleting One data
 
-    db.collection('tasks').deleteOne({
-        Description: 'Work'
-    }).then((result)=>{
-        console.log(result)
-    }).catch((error)=>{
-        console.log(error)
-    })
+    // db.collection('tasks').deleteOne({
+    //     Description: 'Work'
+    // }).then((result)=>{
+    //     console.log(result)
+    // }).catch((error)=>{
+    //     console.log(error)
+    // })
 })

@@ -1,21 +1,9 @@
-const express = require('express')
-require('./db/mongoose')
-require('mongoose')
-const User = require('./models/user')
-const Task = require('./models/tasks')
-const userRouter = require('../routers/user')
-const taskRouter = require('../routers/task')
+const app = require("./app");
+const port = process.env.PORT;
 
-const app = express()
-const port = process.env.PORT
-
-app.use(express.json())
-app.use(userRouter)
-app.use(taskRouter)
-
-app.listen(port, ()=>{
-    console.log('Server is running up on port ' + port)
-})
+app.listen(port, () => {
+  console.log("Server is running up on port " + port);
+});
 
 // //multer
 // const multer = require('multer')
@@ -28,7 +16,7 @@ app.listen(port, ()=>{
 //         if(!file.originalname.match(/\.(doc|docx)$/)){
 //             return cb(new Error('Please upload a word document'))
 //         }
-        
+
 //         cb(undefined, true)
 
 //         // cb(new Error('file must be a PDF'))
@@ -47,7 +35,6 @@ app.listen(port, ()=>{
 //     res.status(400).send({error: error.message})
 // })
 
-
 //block GET request
 // app.use((req, res, next)=>{
 //     if(req.method === 'GET'){
@@ -55,8 +42,7 @@ app.listen(port, ()=>{
 //     } else {
 //         next()
 //     }
-// }) 
-
+// })
 
 //block all the requests
 // app.use((req, res, next)=>{
@@ -65,9 +51,7 @@ app.listen(port, ()=>{
 //     } else {
 //         next()
 //     }
-// }) 
-
-
+// })
 
 // const main = async ()=>{
 //     // const task = await Task.findById('62911779c4474c0ae76558cb')
@@ -115,7 +99,7 @@ app.listen(port, ()=>{
 //     console.log(hashedPassword)
 
 //     const isMatch = await bcrypt.compare('12345red', hashedPassword)
-    
+
 // }
 
 // myFunction()

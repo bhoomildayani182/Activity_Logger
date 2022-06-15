@@ -1,2 +1,7 @@
 node_modules
 config
+.vscode
+nginx-1.22.0
+tests
+ecosystem.config.js
+math.js

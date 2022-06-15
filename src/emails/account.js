@@ -1,40 +1,5 @@
-// const sgMail = require('@sendgrid/mail')
-
-// const sendGridAPIKey = 'UGk2OaL0dRuHlLBDkvlS'
-
-// sgMail.setApiKey(sendGridAPIKey)
-
-// // sgMail.send({
-// //     to: 'uttambhavani007@gmail.com',
-// //     from: 'stockofuttam@gmail.com',
-// //     subject: 'This is mt First creation',
-// //     text: 'I hope this one actually get to you.'
-// // })
-
-// const sendWelcomeEmail = (email, name)=>{
-//     sgMail.send({
-//         to: email,
-//         from: 'uttambhavani007@gmail.com',
-//         subject: 'Thanks for joining us!',
-//         text: `Welcome to the app, ${name}. Let me know how you get along with the app.`
-//     })
-// }
-
-// const sendGoodbyeEmail = (email, name)=>{
-//     sgMail.send({
-//         to: email,
-//         from: 'uttambhavani007@gmail.com',
-//         subject: 'Sorry to see you go!',
-//         text: `GoodBye ${name}. I hope to see you back sometime soon`
-//     })
-// }
-
-// module.exports = {
-//     sendWelcomeEmail,
-//     sendGoodbyeEmail
-// }
-
 const nodemailer = require('nodemailer')
+const logger = require('../../logger')
 
 const transporter = nodemailer.createTransport({
     host: 'smtp.gmail.com',
@@ -47,32 +12,6 @@ const transporter = nodemailer.createTransport({
     }
 })
 
-const welcomeSend = {  
-    from: 'uttambhavani2003@gmail.com',
-    to: 'uttambhavani007@gmail.com',
-    subject: 'This is mt First creation',
-    text: 'I hope this one actually get to you.'
-}
-const goodbyeSend = {  
-    from: 'uttambhavani2003@gmail.com',
-    to: 'uttambhavani007@gmail.com',
-    subject: 'This is mt First creation',
-    text: 'I hope this one actually get to you.'
-}
-
-// transporter.sendMail({  
-//     from: 'uttambhavani2003@gmail.com',
-//     to: 'uttambhavani007@gmail.com',
-//     subject: 'This is mt First creation',
-//     text: 'I hope this one actually get to you.'
-//     },
-
-//     function(error, info){
-//     if(error) return console.log(error)
-
-//     console.log('Sent: ' + info.response)
-// })
-
 const sendWelcomeEmail = (email, name)=>{
     transporter.sendMail({  
         from: 'uttambhavani2003@gmail.com',
@@ -82,10 +21,10 @@ const sendWelcomeEmail = (email, name)=>{
         },
     
         function(error, info){
-        if(error) return console.log(error)
-    
-        // console.log('Sent: ' + info.response)
+            if(error) return console.log(error)
+            // if(error) return logger.error('Error in Sending welcome email')
     })
+    // logger.log(`Welcome email sent successfully to ${email}`)
 }
 
 const sendGoodbyeEmail = (email, name)=>{
@@ -97,13 +36,30 @@ const sendGoodbyeEmail = (email, name)=>{
         },
     
         function(error, info){
-        if(error) return console.log(error)
-    
-        // console.log('Sent: ' + info.response)
+        if(error) console.log(error)
+        // if(error) logger.error('Error in Sending goodbye email')
     })
+    // logger.log(`Goodbye email sent successfully to ${email}`)
+}
+
+const sendVerificationEmail = (email, otp)=>{
+    transporter.sendMail({  
+        from: 'uttambhavani2003@gmail.com',
+        to: email,
+        subject: 'Verify your Email',
+        text: `Your verification Code: ${otp}`
+        },
+    
+        function(error, info){
+        if(error) console.log(error)
+        // if(error) logger.error('Error in Sending otp verification email')
+        },
+        // logger.log(`OTP verification email sent successfully to ${email}`)
+    )
 }
 
 module.exports = {
     sendWelcomeEmail,
-    sendGoodbyeEmail
+    sendGoodbyeEmail,
+    sendVerificationEmail
 }

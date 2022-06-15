@@ -1,35 +1,45 @@
-const mongoose = require('mongoose')
+const mongoose = require("mongoose");
+const Activity = require("./activity");
 
-const taskSchema = new mongoose.Schema({
+const taskSchema = new mongoose.Schema(
+  {
     Description: {
-        type: String,
-        trim: true,
-        required: true
-    }, 
+      type: String,
+      trim: true,
+      required: true,
+    },
     Completed: {
-        type: Boolean,
-        default: false
+      type: Boolean,
+      default: false,
     },
     owner: {
-        type: mongoose.Schema.Types.ObjectId,
-        required: true,
-        ref: 'User'
-    }
+      type: mongoose.Schema.Types.ObjectId,
+      required: true,
+      ref: "User",
+    },
+    token: {
+      type: String,
+      required: true,
+    },
+  },
+  {
+    timestamps: true,
+  }
+);
 
-}, {
-    timestamps: true
-})
+taskSchema.virtual("activity", {
+  ref: "Activity",
+  localField: "_id",
+  foreignField: "task",
+});
 
-const tasks = mongoose.model('Task', taskSchema)
+//Delete task activity when task is removed
+taskSchema.pre("remove", async function (next) {
+  const task = this;
+  await Activity.deleteMany({ task: task._id });
+  next();
+});
 
-// const data = new tasks({
-//     Description: 'Got to the marcket',
-// })
+const tasks = mongoose.model("Task", taskSchema);
 
-// data.save().then(()=>{
-//     console.log(data)
-// }).catch((error)=>{
-//     console.log('Error! ',error)
-// })
-
-module.exports = tasks
+module.exports = tasks;

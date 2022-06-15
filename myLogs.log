@@ -1,0 +1,948 @@
+[info] 2022-06-01T12:08:14.619Z user created
+[info] 2022-06-01T12:08:31.596Z user created
+[error] 2022-06-01T13:50:22.739Z Issue occured in user authentication!
+[error] 2022-06-01T13:50:50.677Z Error during user!!
+[info] 2022-06-01T13:53:07.473Z User Created
+[error] 2022-06-01T13:55:29.009Z Error during user creation!!
+[info] 2022-06-01T13:56:21.810Z User Created
+[error] 2022-06-01T13:58:19.000Z Error during user creation!!
+[error] 2022-06-01T14:16:04.279Z Issue occured in user authentication!
+[error] 2022-06-01T14:16:26.844Z Error during user creation!!
+[error] 2022-06-01T14:19:21.926Z Error during user creation!!
+[info] 2022-06-01T14:19:26.409Z User 62977005eb24b01571c6f173 logged in successfully!
+[info] 2022-06-01T14:20:44.940Z User: 62977005eb24b01571c6f173 logged in successfully!
+[error] 2022-06-01T14:21:25.645Z Error during user logging
+[info] 2022-06-01T14:21:31.458Z User: 62977005eb24b01571c6f173 logged in successfully!
+[info] 2022-06-01T14:23:30.118Z User Authenticated!
+[error] 2022-06-01T14:23:30.152Z Error in user logout.
+[info] 2022-06-01T14:24:26.768Z User Authenticated!
+[info] 2022-06-01T14:24:26.794Z User: 62977005eb24b01571c6f173 logout successfully!
+[info] 2022-06-01T16:25:01.762Z User Authenticated!
+[info] 2022-06-01T16:25:12.287Z User Authenticated!
+[error] 2022-06-01T16:25:12.289Z Error occured in forgot passowrd
+[info] 2022-06-01T16:25:24.202Z User: 62977005eb24b01571c6f173 logged in successfully!
+[info] 2022-06-01T16:25:29.001Z User Authenticated!
+[error] 2022-06-01T16:25:29.002Z Error occured in forgot passowrd
+[info] 2022-06-01T16:26:56.524Z User Authenticated!
+[info] 2022-06-01T16:26:56.528Z Forgot password email sent successfully by User: 62977005eb24b01571c6f173
+[info] 2022-06-01T16:27:03.204Z User Authenticated!
+[info] 2022-06-01T16:27:40.716Z User Authenticated!
+[info] 2022-06-01T16:28:10.748Z User Authenticated!
+[info] 2022-06-01T16:36:49.331Z User Authenticated!
+[error] 2022-06-01T16:36:49.353Z Error occured during task creation
+[info] 2022-06-01T16:37:06.170Z User Authenticated!
+[info] 2022-06-01T16:37:06.180Z Task cerated for User: 62977005eb24b01571c6f173
+[info] 2022-06-01T16:58:19.370Z User Authenticated!
+[info] 2022-06-01T16:58:19.393Z Task cerated for User: 62977005eb24b01571c6f173
+[info] 2022-06-01T16:58:25.065Z User Authenticated!
+[info] 2022-06-01T16:58:25.066Z User readed!
+[info] 2022-06-01T16:58:28.188Z User Authenticated!
+[info] 2022-06-01T16:58:28.189Z User readed!
+[info] 2022-06-01T16:58:31.421Z User Authenticated!
+[info] 2022-06-01T16:58:31.441Z Task readed from User: 62977005eb24b01571c6f173
+[info] 2022-06-01T16:58:38.970Z User Authenticated!
+[info] 2022-06-01T17:01:45.819Z User Authenticated!
+[info] 2022-06-01T17:03:37.995Z User Authenticated!
+[info] 2022-06-01T17:03:54.801Z User Authenticated!
+[info] 2022-06-01T17:06:51.710Z User Authenticated!
+[info] 2022-06-01T17:07:15.687Z User Authenticated!
+[info] 2022-06-01T17:08:00.801Z User Authenticated!
+[info] 2022-06-01T17:08:00.814Z Task readed for given user id: 62977005eb24b01571c6f173
+[info] 2022-06-01T17:08:07.725Z User Authenticated!
+[info] 2022-06-01T17:08:46.327Z User Authenticated!
+[info] 2022-06-01T17:17:09.203Z User Authenticated!
+[info] 2022-06-01T17:18:29.717Z User Authenticated!
+[info] 2022-06-01T17:19:10.670Z User Authenticated!
+[info] 2022-06-01T17:19:17.885Z User Authenticated!
+[info] 2022-06-01T17:19:29.206Z User Authenticated!
+[info] 2022-06-01T17:20:49.190Z User Authenticated!
+[info] 2022-06-01T17:21:29.401Z User Authenticated!
+[info] 2022-06-01T17:23:38.492Z User Authenticated!
+[info] 2022-06-01T17:24:21.851Z User Authenticated!
+[error] 2022-06-01T17:24:21.859Z Error occured in task updation
+[info] 2022-06-01T17:26:35.705Z User Authenticated!
+[error] 2022-06-01T17:26:35.714Z Error occured in task updation
+[info] 2022-06-01T17:27:20.530Z User Authenticated!
+[info] 2022-06-01T17:29:54.620Z User Authenticated!
+[error] 2022-06-01T17:29:54.628Z Error occured in task updation
+[info] 2022-06-01T17:30:33.908Z User Authenticated!
+[info] 2022-06-01T17:31:05.371Z User Authenticated!
+[info] 2022-06-01T17:31:05.375Z Task readed for given user id: 62977005eb24b01571c6f173
+[info] 2022-06-01T17:31:10.877Z User Authenticated!
+[info] 2022-06-01T17:31:15.307Z User Authenticated!
+[info] 2022-06-01T17:34:14.693Z User Authenticated!
+[info] 2022-06-01T17:34:45.900Z User Authenticated!
+[info] 2022-06-01T17:36:00.548Z User Authenticated!
+[info] 2022-06-01T17:36:19.268Z User Authenticated!
+[info] 2022-06-01T17:36:46.613Z User Authenticated!
+[info] 2022-06-01T17:37:07.277Z User Authenticated!
+[info] 2022-06-01T17:38:50.893Z User Authenticated!
+[info] 2022-06-01T17:39:59.133Z User Authenticated!
+[info] 2022-06-01T17:40:31.401Z User Authenticated!
+[info] 2022-06-01T17:41:20.805Z User Authenticated!
+[info] 2022-06-01T17:41:44.772Z User Authenticated!
+[info] 2022-06-02T04:18:16.477Z User Authenticated!
+[info] 2022-06-02T04:36:05.906Z User Authenticated!
+[info] 2022-06-02T04:36:05.912Z Forgot password email sent successfully by User: 62977005eb24b01571c6f173
+[info] 2022-06-02T04:39:24.054Z User Authenticated!
+[info] 2022-06-02T04:39:24.061Z Forgot password email sent successfully by User: 62977005eb24b01571c6f173
+[info] 2022-06-02T04:40:33.245Z User Authenticated!
+[info] 2022-06-02T04:40:33.251Z Forgot password email sent successfully by User: 62977005eb24b01571c6f173
+[info] 2022-06-02T04:44:54.798Z User Authenticated!
+[info] 2022-06-02T04:44:54.832Z User: 62977005eb24b01571c6f173 deleted
+[info] 2022-06-02T04:45:10.799Z User Created
+[info] 2022-06-02T04:45:16.502Z User: 6298405643116c2158e7f098 logged in successfully!
+[info] 2022-06-02T04:45:33.131Z User Authenticated!
+[info] 2022-06-02T04:45:33.132Z Forgot password email sent successfully by User: 6298405643116c2158e7f098
+[info] 2022-06-02T04:45:36.810Z User Authenticated!
+[error] 2022-06-02T04:45:36.826Z Error occured during verifying OTP
+[info] 2022-06-02T04:45:57.724Z User Authenticated!
+[error] 2022-06-02T04:45:57.729Z Error occured during verifying OTP
+[info] 2022-06-02T04:46:22.492Z User Authenticated!
+[error] 2022-06-02T04:46:22.502Z Error occured during verifying OTP
+[info] 2022-06-02T04:46:28.693Z User Authenticated!
+[error] 2022-06-02T04:46:28.698Z Error occured during verifying OTP
+[info] 2022-06-02T04:47:00.550Z User Authenticated!
+[error] 2022-06-02T04:47:00.562Z Error occured during verifying OTP
+[info] 2022-06-02T04:49:36.276Z User Authenticated!
+[error] 2022-06-02T04:49:36.287Z Error occured during verifying OTP
+[info] 2022-06-02T04:49:43.202Z User Authenticated!
+[info] 2022-06-02T04:49:43.204Z Forgot password email sent successfully by User: 6298405643116c2158e7f098
+[info] 2022-06-02T04:50:03.720Z User Authenticated!
+[info] 2022-06-02T04:50:03.913Z User: 6298405643116c2158e7f098 has verified OTP and password updated successfully
+[info] 2022-06-02T04:50:16.628Z User Authenticated!
+[info] 2022-06-02T04:50:16.650Z User: 6298405643116c2158e7f098 logged out successfully!
+[info] 2022-06-02T04:50:20.530Z User Authenticated!
+[info] 2022-06-02T04:50:20.544Z all users logged out successfully!
+[error] 2022-06-02T04:50:27.857Z Error during user logging
+[info] 2022-06-02T04:50:35.181Z User: 6298405643116c2158e7f098 logged in successfully!
+[info] 2022-06-02T04:50:40.007Z User Authenticated!
+[info] 2022-06-02T04:50:40.013Z Task cerated for User: 6298405643116c2158e7f098
+[info] 2022-06-02T04:50:44.285Z User Authenticated!
+[info] 2022-06-02T04:50:44.286Z User readed!
+[info] 2022-06-02T04:50:47.556Z User Authenticated!
+[info] 2022-06-02T04:50:47.557Z User readed!
+[info] 2022-06-02T04:50:53.324Z User Authenticated!
+[info] 2022-06-02T04:50:53.360Z Task readed from User: 6298405643116c2158e7f098
+[info] 2022-06-02T04:51:13.013Z User Authenticated!
+[info] 2022-06-02T04:51:13.018Z Task readed for given user id: 6298405643116c2158e7f098
+[info] 2022-06-02T04:51:32.789Z User Authenticated!
+[error] 2022-06-02T04:51:32.795Z Error occured in user updation.
+[info] 2022-06-02T04:52:27.029Z User Authenticated!
+[error] 2022-06-02T04:52:27.069Z Error occured in user updation.
+[info] 2022-06-02T04:52:59.676Z User Authenticated!
+[info] 2022-06-02T04:52:59.703Z User: 6298405643116c2158e7f098 updated
+[info] 2022-06-02T04:53:29.190Z User Authenticated!
+[info] 2022-06-02T04:53:29.201Z Task updated in User: 6298405643116c2158e7f098
+[info] 2022-06-02T04:53:39.540Z User Authenticated!
+[info] 2022-06-02T04:53:39.548Z Task deleted from User: 6298405643116c2158e7f098
+[info] 2022-06-02T04:53:45.778Z User Authenticated!
+[info] 2022-06-02T04:53:45.795Z User: 6298405643116c2158e7f098 deleted
+[info] 2022-06-02T06:18:17.114Z User Created
+[error] 2022-06-02T06:21:53.520Z Error occured in user deletion
+[info] 2022-06-02T06:22:29.240Z User Authenticated!
+[info] 2022-06-02T06:22:29.260Z User: 6298562857f31a5f117768c8 deleted
+[error] 2022-06-02T06:36:07.576Z Issue occured in user authentication!
+[error] 2022-06-02T06:36:17.526Z Error during user logging
+[error] 2022-06-02T06:36:23.111Z Error during user logging
+[info] 2022-06-02T06:36:26.885Z User Created
+[info] 2022-06-02T06:36:30.296Z User Authenticated!
+[info] 2022-06-02T06:37:51.043Z User Authenticated!
+[info] 2022-06-02T07:56:58.661Z User: 62985a6ae340e44db8bdf7d0 logged in successfully!
+[info] 2022-06-02T07:59:45.292Z User Authenticated!
+[info] 2022-06-02T07:59:45.316Z Task cerated for User: 62985a6ae340e44db8bdf7d0
+[info] 2022-06-02T08:05:54.969Z User Authenticated!
+[info] 2022-06-02T08:05:54.991Z Task readed from User: 62985a6ae340e44db8bdf7d0
+[info] 2022-06-02T08:05:58.783Z User Authenticated!
+[info] 2022-06-02T08:06:08.076Z User Authenticated!
+[info] 2022-06-02T08:06:12.817Z User Authenticated!
+[info] 2022-06-02T08:06:12.825Z Task readed for given user id: 62985a6ae340e44db8bdf7d0
+[info] 2022-06-02T08:06:21.136Z User Authenticated!
+[info] 2022-06-02T08:06:21.157Z Task updated in User: 62985a6ae340e44db8bdf7d0
+[info] 2022-06-02T08:06:26.239Z User Authenticated!
+[info] 2022-06-02T08:06:34.561Z User Authenticated!
+[info] 2022-06-02T08:06:34.566Z Task deleted from User: 62985a6ae340e44db8bdf7d0
+[error] 2022-06-04T08:30:49.040Z Error during user creation!!
+[error] 2022-06-04T08:31:02.782Z Error during user creation!!
+[error] 2022-06-04T08:31:13.915Z Error during user creation!!
+[error] 2022-06-04T08:37:02.098Z Error during user creation!!
+[error] 2022-06-05T11:08:37.075Z Error during user creation!!
+[error] 2022-06-05T11:08:47.231Z Error during user creation!!
+[error] 2022-06-05T11:08:56.238Z Error during user creation!!
+[error] 2022-06-05T11:10:34.755Z Error during user creation!!
+[error] 2022-06-05T11:10:37.021Z Error during user creation!!
+[error] 2022-06-05T11:11:37.099Z Error during user creation!!
+[error] 2022-06-05T11:11:46.462Z Error during user creation!!
+[error] 2022-06-05T11:12:19.035Z Error during user creation!!
+[error] 2022-06-05T11:12:26.658Z Error during user creation!!
+[error] 2022-06-05T15:42:18.932Z Error during user creation!!
+[error] 2022-06-05T15:43:03.829Z Error during user creation!!
+[error] 2022-06-05T15:44:10.535Z Error during user creation!!
+[error] 2022-06-05T15:56:42.621Z Error during user creation!!
+[error] 2022-06-05T15:57:41.645Z Error during user creation!!
+[info] 2022-06-05T16:37:50.413Z User Authenticated!
+[error] 2022-06-05T16:43:14.864Z Error during user creation!!
+[error] 2022-06-05T16:43:59.225Z Error during user creation!!
+[error] 2022-06-05T16:44:08.443Z Error during user creation!!
+[info] 2022-06-05T16:44:36.083Z User Created
+[info] 2022-06-05T16:45:01.062Z User Created
+[info] 2022-06-05T17:03:40.109Z User Created
+[error] 2022-06-05T17:04:33.641Z Error during user creation!!
+[error] 2022-06-05T17:04:46.154Z Error during user creation!!
+[error] 2022-06-05T17:05:07.524Z Error during user creation!!
+[error] 2022-06-06T03:46:01.288Z Error during user creation!!
+[error] 2022-06-06T03:48:48.276Z Error during user creation!!
+[info] 2022-06-06T03:48:59.435Z User Created
+[info] 2022-06-06T03:51:05.943Z User Created
+[error] 2022-06-06T03:52:05.737Z Error during user creation!!
+[error] 2022-06-06T03:52:42.276Z Error during user creation!!
+[error] 2022-06-06T04:00:06.050Z Error during user creation!!
+[error] 2022-06-06T04:04:19.241Z Error during user creation!!
+[error] 2022-06-06T04:04:25.748Z Error during user creation!!
+[error] 2022-06-06T04:04:49.397Z Error during user creation!!
+[info] 2022-06-06T04:24:29.506Z User Created
+[error] 2022-06-06T04:24:43.105Z Error during user creation!!
+[info] 2022-06-06T04:29:53.574Z User Created
+[error] 2022-06-06T04:31:29.795Z Error during user creation!!
+[error] 2022-06-06T04:32:40.090Z Error during user creation!!
+[info] 2022-06-06T04:32:51.780Z User Created
+[info] 2022-06-06T04:33:47.673Z User Created
+[info] 2022-06-06T04:54:46.696Z User Created
+[info] 2022-06-06T06:20:54.210Z User: 629d88963ef34a71bd863338 logged in successfully!
+[info] 2022-06-06T06:21:57.711Z User: 629d88963ef34a71bd863338 logged in successfully!
+[info] 2022-06-06T06:23:13.780Z User Created
+[error] 2022-06-06T06:23:54.118Z Error during user logging
+[error] 2022-06-06T06:24:15.404Z Error during user logging
+[info] 2022-06-06T06:30:45.452Z User: 629d9d51815dd1dc0b1e64aa logged in successfully!
+[info] 2022-06-06T06:32:29.637Z User: 629d9d51815dd1dc0b1e64aa logged in successfully!
+[info] 2022-06-06T06:34:29.253Z User Authenticated!
+[info] 2022-06-06T06:34:29.290Z User: 629d9d51815dd1dc0b1e64aa logged out successfully!
+[info] 2022-06-06T06:49:11.058Z User: 629d9d51815dd1dc0b1e64aa logged in successfully!
+[info] 2022-06-06T06:49:13.925Z User Authenticated!
+[info] 2022-06-06T06:50:41.314Z User Authenticated!
+[error] 2022-06-06T06:50:41.317Z Error in user logout.
+[info] 2022-06-06T06:50:53.105Z User: 629d9d51815dd1dc0b1e64aa logged in successfully!
+[info] 2022-06-06T06:50:56.802Z User Authenticated!
+[error] 2022-06-06T06:50:56.803Z Error in user logout.
+[info] 2022-06-06T06:51:41.773Z User Authenticated!
+[error] 2022-06-06T06:51:41.777Z Error in user logout.
+[info] 2022-06-06T10:41:13.752Z User Authenticated!
+[error] 2022-06-06T10:41:13.758Z Error in user logout.
+[info] 2022-06-06T10:42:00.934Z User Authenticated!
+[error] 2022-06-06T10:42:00.941Z Error in user logout.
+[info] 2022-06-06T10:42:19.618Z User Authenticated!
+[error] 2022-06-06T10:42:19.619Z Error in user logout.
+[info] 2022-06-06T10:42:42.181Z User Authenticated!
+[info] 2022-06-06T10:42:42.232Z User: 629d9d51815dd1dc0b1e64aa logged out successfully!
+[info] 2022-06-06T10:44:54.549Z User Authenticated!
+[info] 2022-06-06T10:45:35.726Z User Authenticated!
+[info] 2022-06-06T10:46:29.704Z User Authenticated!
+[info] 2022-06-06T10:46:29.736Z all users logged out successfully!
+[info] 2022-06-06T10:52:55.267Z User Authenticated!
+[info] 2022-06-06T10:53:29.569Z User Authenticated!
+[info] 2022-06-06T10:53:29.574Z User readed!
+[info] 2022-06-06T11:02:30.288Z User Authenticated!
+[info] 2022-06-06T11:03:02.763Z User Authenticated!
+[info] 2022-06-06T11:03:21.675Z User Authenticated!
+[info] 2022-06-06T11:03:21.679Z User readed!
+[info] 2022-06-06T11:04:20.116Z User Authenticated!
+[info] 2022-06-06T11:04:20.117Z User readed!
+[info] 2022-06-06T11:38:43.406Z User: 629d9d51815dd1dc0b1e64aa logged in successfully!
+[info] 2022-06-06T11:39:02.747Z User Authenticated!
+[info] 2022-06-06T11:39:15.072Z User Authenticated!
+[info] 2022-06-06T11:39:29.246Z User Authenticated!
+[info] 2022-06-06T11:39:29.258Z User: 629d9d51815dd1dc0b1e64aa updated
+[info] 2022-06-06T11:40:49.280Z User Authenticated!
+[info] 2022-06-06T11:40:49.317Z User: 629d9d51815dd1dc0b1e64aa updated
+[info] 2022-06-06T12:02:36.704Z User Authenticated!
+[info] 2022-06-06T12:04:37.516Z User Authenticated!
+[info] 2022-06-06T12:05:36.854Z User Authenticated!
+[info] 2022-06-06T12:07:19.299Z User Authenticated!
+[info] 2022-06-06T12:07:19.302Z Forgot password email sent successfully by User: 629d9d51815dd1dc0b1e64aa
+[info] 2022-06-06T12:10:03.816Z User Created
+[info] 2022-06-06T12:10:09.806Z User Authenticated!
+[info] 2022-06-06T12:10:09.807Z Forgot password email sent successfully by User: 629dee9b6ed014774554e01d
+[info] 2022-06-06T17:58:23.380Z User Authenticated!
+[info] 2022-06-06T17:58:23.382Z Forgot password email sent successfully by User: 629dee9b6ed014774554e01d
+[info] 2022-06-06T18:02:12.407Z User Authenticated!
+[info] 2022-06-06T18:02:12.410Z Forgot password email sent successfully by User: 629dee9b6ed014774554e01d
+[error] 2022-06-06T18:05:15.287Z Error during user creation!!
+[info] 2022-06-06T18:05:29.513Z User Authenticated!
+[info] 2022-06-06T18:05:29.532Z User: 629dee9b6ed014774554e01d deleted
+[info] 2022-06-06T18:05:40.317Z User: 629d9d51815dd1dc0b1e64aa logged in successfully!
+[info] 2022-06-06T18:05:44.318Z User Authenticated!
+[info] 2022-06-06T18:05:44.325Z User: 629d9d51815dd1dc0b1e64aa deleted
+[info] 2022-06-06T18:06:08.965Z User Created
+[info] 2022-06-06T18:06:24.705Z User Authenticated!
+[info] 2022-06-06T18:06:24.706Z Forgot password email sent successfully by User: 629e421030c9d9c5db33d16b
+[info] 2022-06-06T18:07:52.368Z User Authenticated!
+[info] 2022-06-06T18:07:52.375Z Forgot password email sent successfully by User: 629e421030c9d9c5db33d16b
+[info] 2022-06-06T18:11:27.233Z User Authenticated!
+[info] 2022-06-06T18:11:27.238Z Forgot password email sent successfully by User: 629e421030c9d9c5db33d16b
+[info] 2022-06-06T18:15:51.382Z User Authenticated!
+[info] 2022-06-06T18:16:14.054Z User Authenticated!
+[info] 2022-06-06T18:16:36.634Z User Authenticated!
+[error] 2022-06-06T18:16:36.659Z Error occured during verifying OTP
+[info] 2022-06-06T18:16:45.472Z User Authenticated!
+[info] 2022-06-06T18:16:45.474Z Forgot password email sent successfully by User: 629e421030c9d9c5db33d16b
+[info] 2022-06-06T18:17:05.391Z User Authenticated!
+[info] 2022-06-06T18:17:05.582Z User: 629e421030c9d9c5db33d16b has verified OTP and password updated successfully
+[error] 2022-06-06T18:17:19.800Z Error during user logging
+[info] 2022-06-06T18:17:27.141Z User: 629e421030c9d9c5db33d16b logged in successfully!
+[error] 2022-06-08T11:43:52.001Z Error during user creation!!
+[error] 2022-06-08T11:44:07.207Z Error during user logging
+[info] 2022-06-08T11:45:56.224Z User: 629e421030c9d9c5db33d16b logged in successfully!
+[error] 2022-06-08T12:32:14.243Z Error during user logging
+[error] 2022-06-08T13:25:31.186Z Error during user logging
+[error] 2022-06-08T13:26:10.502Z Error during user creation!!
+[error] 2022-06-08T13:26:20.886Z Error during user logging
+[info] 2022-06-08T17:05:32.845Z User: 629e421030c9d9c5db33d16b logged in successfully!
+[error] 2022-06-08T17:05:45.500Z Error during user creation!!
+[info] 2022-06-09T06:11:10.154Z User: 629e421030c9d9c5db33d16b logged in successfully!
+[info] 2022-06-09T06:11:34.656Z User Authenticated!
+[info] 2022-06-09T06:11:34.692Z User: 629e421030c9d9c5db33d16b deleted
+[info] 2022-06-09T06:11:38.763Z User Created
+[info] 2022-06-09T06:25:29.824Z User: 62a18f1af24f0be5e9dcc1f6 logged in successfully!
+[info] 2022-06-09T06:31:49.229Z User Created
+[info] 2022-06-09T06:31:54.796Z User: 62a193d5f24f0be5e9dcc1fd logged in successfully!
+[info] 2022-06-09T06:32:55.012Z User Created
+[info] 2022-06-09T06:32:57.637Z User: 62a19416f24f0be5e9dcc204 logged in successfully!
+[info] 2022-06-09T07:32:19.202Z User Created
+[info] 2022-06-09T07:32:30.554Z User: 62a1a203f24f0be5e9dcc20b logged in successfully!
+[info] 2022-06-09T07:36:13.474Z User: 62a1a203f24f0be5e9dcc20b logged in successfully!
+[info] 2022-06-09T07:37:04.342Z User: 62a1a203f24f0be5e9dcc20b logged in successfully!
+[info] 2022-06-09T07:37:32.494Z User: 62a1a203f24f0be5e9dcc20b logged in successfully!
+[info] 2022-06-09T07:37:37.373Z User: 62a1a203f24f0be5e9dcc20b logged in successfully!
+[error] 2022-06-09T07:38:11.591Z Error during user creation!!
+[info] 2022-06-09T07:38:23.095Z User Created
+[info] 2022-06-09T07:38:26.347Z User: 62a1a36ff24f0be5e9dcc220 logged in successfully!
+[error] 2022-06-09T07:39:52.631Z Error during user logging
+[error] 2022-06-09T07:40:31.556Z Error during user creation!!
+[error] 2022-06-09T07:41:22.489Z Error during user creation!!
+[info] 2022-06-09T07:41:35.510Z User: 62a1a3ef9d6671e3f36aa381 logged in successfully!
+[error] 2022-06-09T07:42:02.522Z Error during user logging
+[error] 2022-06-09T07:51:46.395Z Error during user logging
+[error] 2022-06-09T07:51:56.156Z Error during user creation!!
+[error] 2022-06-09T07:53:51.590Z Error during user creation!!
+[error] 2022-06-09T07:54:05.329Z Error during user creation!!
+[info] 2022-06-09T08:36:15.039Z User Created
+[info] 2022-06-09T08:36:59.874Z User: 62a1b0fee09270ac42eba60f logged in successfully!
+[info] 2022-06-09T08:38:59.971Z User Created
+[error] 2022-06-09T08:39:04.153Z Error during user logging
+[info] 2022-06-09T08:39:35.424Z User: 62a1b1a389551e286786f761 logged in successfully!
+[error] 2022-06-09T09:03:40.735Z Error during user logging
+[error] 2022-06-09T09:04:05.963Z Error during user creation!!
+[error] 2022-06-09T09:09:03.838Z Error during user creation!!
+[error] 2022-06-09T09:09:11.025Z Error during user creation!!
+[error] 2022-06-09T09:10:46.594Z Error during user creation!!
+[error] 2022-06-09T09:11:14.118Z Error during user creation!!
+[error] 2022-06-09T09:24:32.359Z Error during user creation!!
+[error] 2022-06-09T09:24:39.061Z Error during user creation!!
+[error] 2022-06-09T11:41:48.619Z Error during user logging
+[error] 2022-06-09T11:41:59.109Z Error during user creation!!
+[error] 2022-06-09T11:43:09.267Z Error during user logging
+[error] 2022-06-09T11:45:27.440Z Error during user logging
+[error] 2022-06-09T13:12:19.835Z Error during user creation!!
+[error] 2022-06-09T13:13:41.057Z Error during user creation!!
+[error] 2022-06-09T13:13:48.153Z Error during user logging
+[error] 2022-06-09T13:14:08.783Z Error during user logging
+[error] 2022-06-09T13:14:12.621Z Error during user creation!!
+[error] 2022-06-09T13:15:11.615Z Error during user creation!!
+[error] 2022-06-09T13:15:15.652Z Error during user logging
+[error] 2022-06-09T13:15:30.933Z Error during user logging
+[error] 2022-06-09T13:15:39.264Z Error during user creation!!
+[info] 2022-06-09T13:15:43.495Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[info] 2022-06-09T13:15:57.727Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[info] 2022-06-09T13:16:19.388Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[info] 2022-06-11T11:23:35.648Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[error] 2022-06-11T11:23:54.523Z Issue occurred in user authentication!
+[error] 2022-06-11T11:24:58.188Z Issue occurred in user authentication!
+[error] 2022-06-11T11:26:10.077Z Issue occurred in user authentication!
+[error] 2022-06-11T11:31:02.004Z Issue occurred in user authentication!
+[info] 2022-06-11T11:31:16.078Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[error] 2022-06-11T11:31:23.692Z Issue occurred in user authentication!
+[error] 2022-06-11T11:31:53.035Z Issue occurred in user authentication!
+[error] 2022-06-11T11:32:14.060Z Issue occurred in user authentication!
+[info] 2022-06-11T11:36:39.751Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[info] 2022-06-11T11:36:46.347Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[info] 2022-06-11T11:36:56.296Z User Authenticated!
+[info] 2022-06-11T11:36:56.315Z Task cerated by User: 62a1f224c9957344cf16a99a
+[error] 2022-06-11T11:38:23.209Z Issue occurred in user authentication!
+[error] 2022-06-11T11:38:34.413Z Issue occurred in user authentication!
+[info] 2022-06-11T11:38:37.757Z User: 62a1f224c9957344cf16a99a logged in successfully!
+[info] 2022-06-11T11:38:41.560Z User Authenticated!
+[info] 2022-06-11T11:38:41.563Z Task cerated by User: 62a1f224c9957344cf16a99a
+[info] 2022-06-11T11:38:42.730Z User Authenticated!
+[info] 2022-06-11T11:38:42.734Z Task cerated by User: 62a1f224c9957344cf16a99a
+[info] 2022-06-11T11:38:43.826Z User Authenticated!
+[info] 2022-06-11T11:38:43.836Z Task cerated by User: 62a1f224c9957344cf16a99a
+[info] 2022-06-11T11:38:44.827Z User Authenticated!
+[info] 2022-06-11T11:38:44.830Z Task cerated by User: 62a1f224c9957344cf16a99a
+[error] 2022-06-11T11:39:41.428Z Issue occurred in user authentication!
+[error] 2022-06-11T13:03:54.260Z Error during user logging
+[error] 2022-06-11T13:04:00.252Z Error during user logging
+[error] 2022-06-11T13:04:21.169Z Error during user logging
+[error] 2022-06-11T13:04:58.861Z Error during user logging
+[error] 2022-06-11T13:06:02.532Z Error during user logging
+[error] 2022-06-11T13:06:20.564Z Error during user logging
+[error] 2022-06-11T13:08:26.132Z Error during user logging
+[error] 2022-06-11T13:10:21.798Z Error during user creation!!
+[error] 2022-06-11T13:11:30.820Z Error during user creation!!
+[error] 2022-06-11T13:11:45.167Z Error during user creation!!
+[info] 2022-06-11T13:12:51.135Z User Created
+[info] 2022-06-11T13:14:16.966Z User: 62a494d3b1b026caf0f1ea33 logged in successfully!
+[error] 2022-06-11T13:14:26.089Z Error during user creation!!
+[info] 2022-06-11T13:15:10.405Z User Created
+[error] 2022-06-11T13:20:27.201Z Issue occurred in user authentication!
+[error] 2022-06-11T13:20:33.502Z Error during user creation!!
+[info] 2022-06-11T13:20:37.959Z User: 62a4955eb1b026caf0f1ea40 logged in successfully!
+[info] 2022-06-11T13:20:42.574Z User Authenticated!
+[info] 2022-06-11T13:20:42.586Z User: 62a4955eb1b026caf0f1ea40 deleted
+[error] 2022-06-11T13:23:24.057Z Issue occurred in user authentication!
+[error] 2022-06-11T13:23:52.819Z Error during user logging
+[info] 2022-06-11T13:43:49.120Z User Created
+[info] 2022-06-11T13:51:57.312Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T13:53:21.308Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T13:57:33.865Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T13:58:06.340Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T13:58:09.895Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T13:58:19.772Z User Authenticated!
+[info] 2022-06-11T13:58:19.774Z Forgot password email sent successfully by User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-11T14:02:39.724Z User Authenticated!
+[info] 2022-06-11T14:02:39.731Z Forgot password email sent successfully by User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-11T14:26:16.513Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T16:29:37.121Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T16:29:46.108Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T16:33:56.962Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T17:12:38.590Z User Authenticated!
+[error] 2022-06-11T17:12:38.611Z Error occurred during task creation
+[info] 2022-06-11T17:13:00.790Z User Authenticated!
+[error] 2022-06-11T17:13:00.805Z Error occurred during task creation
+[info] 2022-06-11T17:14:04.889Z User Authenticated!
+[error] 2022-06-11T17:14:04.912Z Error occurred during task creation
+[info] 2022-06-11T17:14:42.344Z User Authenticated!
+[error] 2022-06-11T17:14:42.365Z Error occurred during activity creation
+[info] 2022-06-11T17:16:18.576Z User Authenticated!
+[info] 2022-06-11T17:18:56.752Z User Authenticated!
+[info] 2022-06-11T17:20:04.551Z User Authenticated!
+[info] 2022-06-11T17:21:00.792Z User Authenticated!
+[info] 2022-06-11T17:21:00.823Z Task readed from User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-11T17:21:06.999Z User Authenticated!
+[info] 2022-06-11T17:21:07.032Z Task cerated by User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-11T17:21:58.453Z User Authenticated!
+[info] 2022-06-11T17:23:10.410Z User Authenticated!
+[info] 2022-06-11T17:24:08.741Z User Authenticated!
+[error] 2022-06-11T17:24:08.769Z Error occurred during activity creation
+[info] 2022-06-11T17:24:22.113Z User Authenticated!
+[info] 2022-06-11T17:25:41.995Z User Authenticated!
+[info] 2022-06-11T17:32:52.835Z User Authenticated!
+[info] 2022-06-11T17:33:26.710Z User Authenticated!
+[info] 2022-06-11T17:37:15.274Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T17:37:28.741Z User Authenticated!
+[error] 2022-06-11T17:46:42.376Z Issue occurred in user authentication!
+[error] 2022-06-11T17:46:48.655Z Error during user logging
+[error] 2022-06-11T17:47:17.071Z Error during user logging
+[error] 2022-06-11T17:47:52.109Z Error during user creation!!
+[info] 2022-06-11T17:48:09.285Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[error] 2022-06-11T17:48:19.405Z Issue occurred in user authentication!
+[error] 2022-06-11T17:48:43.997Z Issue occurred in user authentication!
+[info] 2022-06-11T17:50:39.214Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-11T17:50:45.328Z User Authenticated!
+[info] 2022-06-11T17:50:45.336Z Task cerated by User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-11T17:51:31.635Z User Authenticated!
+[info] 2022-06-11T17:51:31.642Z Task cerated by User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-11T17:53:15.468Z User Authenticated!
+[info] 2022-06-11T17:56:07.595Z User Authenticated!
+[error] 2022-06-12T16:39:11.891Z Issue occurred in user authentication!
+[info] 2022-06-12T16:39:22.894Z User: 62a49c14ef0c2612d0c4fdca logged in successfully!
+[info] 2022-06-12T16:39:28.090Z User Authenticated!
+[info] 2022-06-12T16:40:30.041Z User Authenticated!
+[error] 2022-06-12T16:40:30.278Z Error occurred during activity creation
+[info] 2022-06-12T16:41:30.650Z User Authenticated!
+[info] 2022-06-12T16:41:30.663Z Task cerated by User: 62a49c14ef0c2612d0c4fdca
+[info] 2022-06-12T16:41:47.816Z User Authenticated!
+[error] 2022-06-12T16:41:48.026Z Error occurred during activity creation
+[info] 2022-06-12T16:47:28.018Z User Authenticated!
+[info] 2022-06-12T16:52:16.107Z User Authenticated!
+[error] 2022-06-12T16:52:16.137Z Error occurred during activity creation
+[info] 2022-06-12T16:52:39.387Z User Authenticated!
+[error] 2022-06-12T16:52:39.424Z Error occurred during activity creation
+[info] 2022-06-12T16:53:18.962Z User Authenticated!
+[error] 2022-06-12T16:53:19.183Z Error occurred during activity creation
+[info] 2022-06-12T16:54:21.653Z User Authenticated!
+[error] 2022-06-12T16:54:21.694Z Error occurred during activity creation
+[info] 2022-06-12T16:54:23.215Z User Authenticated!
+[error] 2022-06-12T16:54:23.228Z Error occurred during activity creation
+[info] 2022-06-12T16:57:59.448Z User Authenticated!
+[error] 2022-06-12T16:57:59.489Z Error occurred during activity creation
+[info] 2022-06-12T16:58:16.363Z User Authenticated!
+[error] 2022-06-12T16:58:16.399Z Error occurred during activity creation
+[info] 2022-06-12T17:05:23.344Z User Authenticated!
+[error] 2022-06-12T17:05:23.373Z Error occurred during activity creation
+[info] 2022-06-12T17:05:35.162Z User Authenticated!
+[error] 2022-06-12T17:05:35.207Z Error occurred during activity creation
+[info] 2022-06-12T17:06:31.192Z User Authenticated!
+[error] 2022-06-12T17:06:31.218Z Error occurred during activity creation
+[info] 2022-06-12T17:07:32.605Z User Authenticated!
+[error] 2022-06-12T17:07:32.630Z Error occurred during activity creation
+[info] 2022-06-12T17:08:10.445Z User Authenticated!
+[error] 2022-06-12T17:08:10.470Z Error occurred during activity creation
+[info] 2022-06-12T17:08:12.105Z User Authenticated!
+[error] 2022-06-12T17:08:12.115Z Error occurred during activity creation
+[info] 2022-06-12T17:08:33.829Z User Authenticated!
+[error] 2022-06-12T17:08:33.852Z Error occurred during activity creation
+[info] 2022-06-12T17:10:36.533Z User Authenticated!
+[error] 2022-06-12T17:10:36.548Z Error occurred during activity creation
+[info] 2022-06-12T17:10:59.120Z User Authenticated!
+[error] 2022-06-12T17:10:59.143Z Error occurred during activity creation
+[info] 2022-06-12T17:11:00.497Z User Authenticated!
+[error] 2022-06-12T17:11:00.503Z Error occurred during activity creation
+[info] 2022-06-12T17:11:07.251Z User Authenticated!
+[info] 2022-06-12T17:11:26.968Z User Authenticated!
+[info] 2022-06-12T17:12:12.537Z User Authenticated!
+[info] 2022-06-12T17:12:12.572Z Activity created for task: 62a6173a7aa0347b49679830
+[info] 2022-06-12T17:14:06.885Z User Created
+[info] 2022-06-12T17:14:25.768Z User Authenticated!
+[info] 2022-06-12T17:14:25.806Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T17:25:51.428Z User Authenticated!
+[info] 2022-06-12T17:25:51.461Z Activity created for task: 62a61ef1d71db861f1a78467
+[info] 2022-06-12T17:31:41.331Z User Authenticated!
+[info] 2022-06-12T17:33:08.511Z User Authenticated!
+[info] 2022-06-12T17:34:19.518Z User Authenticated!
+[info] 2022-06-12T17:34:30.055Z User Authenticated!
+[info] 2022-06-12T17:35:16.386Z User Authenticated!
+[info] 2022-06-12T17:36:31.361Z User Authenticated!
+[info] 2022-06-12T17:36:53.997Z User Authenticated!
+[info] 2022-06-12T17:39:06.514Z User Authenticated!
+[info] 2022-06-12T17:39:45.098Z User Authenticated!
+[info] 2022-06-12T17:39:57.119Z User Authenticated!
+[info] 2022-06-12T17:41:20.208Z User Authenticated!
+[info] 2022-06-12T17:41:20.247Z Activity created for task: 62a61ef1d71db861f1a78467
+[info] 2022-06-12T17:41:29.094Z User Authenticated!
+[info] 2022-06-12T17:42:09.966Z User Authenticated!
+[info] 2022-06-12T17:42:45.934Z User Authenticated!
+[info] 2022-06-12T17:44:06.903Z User Authenticated!
+[info] 2022-06-12T17:44:06.925Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T17:45:37.240Z User Authenticated!
+[info] 2022-06-12T17:45:37.270Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T17:48:08.566Z User Authenticated!
+[info] 2022-06-12T17:48:45.529Z User Authenticated!
+[info] 2022-06-12T17:48:47.108Z User Authenticated!
+[info] 2022-06-12T17:50:50.767Z User Authenticated!
+[info] 2022-06-12T17:50:50.791Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T17:51:06.570Z User Authenticated!
+[info] 2022-06-12T17:51:06.594Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T17:51:55.975Z User Authenticated!
+[info] 2022-06-12T17:51:56.015Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T17:57:32.307Z User Authenticated!
+[info] 2022-06-12T17:57:32.334Z Task readed from User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:02:49.562Z User Authenticated!
+[info] 2022-06-12T18:02:49.573Z Task readed for given user id: 62a61eded71db861f1a78460
+[error] 2022-06-12T18:22:01.567Z Issue occurred in user authentication!
+[info] 2022-06-12T18:22:12.003Z User: 62a61eded71db861f1a78460 logged in successfully!
+[info] 2022-06-12T18:22:18.357Z User Authenticated!
+[info] 2022-06-12T18:22:18.372Z Task updated in User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:22:32.543Z User Authenticated!
+[info] 2022-06-12T18:22:32.556Z Task updated in User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:31:47.940Z User Authenticated!
+[info] 2022-06-12T18:32:09.628Z User Authenticated!
+[info] 2022-06-12T18:32:09.641Z Task deleted from User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:42:31.396Z User Authenticated!
+[info] 2022-06-12T18:43:43.348Z User Authenticated!
+[info] 2022-06-12T18:43:43.377Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:43:59.361Z User Authenticated!
+[info] 2022-06-12T18:44:49.333Z User Authenticated!
+[error] 2022-06-12T18:44:49.350Z Error occurred during activity creation
+[info] 2022-06-12T18:45:14.399Z User Authenticated!
+[info] 2022-06-12T18:45:14.439Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:45:41.950Z User Authenticated!
+[info] 2022-06-12T18:45:41.956Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:45:51.674Z User Authenticated!
+[info] 2022-06-12T18:45:51.681Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:46:26.015Z User Authenticated!
+[info] 2022-06-12T18:46:26.021Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:51:26.517Z User Authenticated!
+[info] 2022-06-12T18:51:26.552Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:52:28.198Z User Authenticated!
+[info] 2022-06-12T18:52:28.232Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-12T18:52:37.125Z User Authenticated!
+[info] 2022-06-12T18:52:37.154Z Activity created for task: 62a635ec63edee0f9643b367
+[error] 2022-06-13T01:08:17.515Z Issue occurred in user authentication!
+[info] 2022-06-13T01:08:22.893Z User: 62a61eded71db861f1a78460 logged in successfully!
+[info] 2022-06-13T01:08:36.532Z User Authenticated!
+[info] 2022-06-13T01:10:13.920Z User Authenticated!
+[info] 2022-06-13T01:52:03.154Z User Authenticated!
+[error] 2022-06-13T01:52:03.160Z Error occurred during activity reading
+[info] 2022-06-13T01:53:56.324Z User Authenticated!
+[error] 2022-06-13T01:53:56.328Z Error occurred during activity reading
+[info] 2022-06-13T01:54:01.794Z User Authenticated!
+[error] 2022-06-13T01:54:01.796Z Error occurred during activity reading
+[info] 2022-06-13T01:54:10.216Z User Authenticated!
+[error] 2022-06-13T01:54:10.220Z Error occurred during activity reading
+[info] 2022-06-13T01:54:11.811Z User Authenticated!
+[error] 2022-06-13T01:54:11.813Z Error occurred during activity reading
+[info] 2022-06-13T01:54:30.951Z User Authenticated!
+[error] 2022-06-13T01:54:30.958Z Error occurred during activity reading
+[info] 2022-06-13T01:54:44.218Z User Authenticated!
+[error] 2022-06-13T01:54:44.224Z Error occurred during activity reading
+[info] 2022-06-13T01:55:10.339Z User Authenticated!
+[info] 2022-06-13T01:55:22.703Z User Authenticated!
+[error] 2022-06-13T01:55:22.708Z Error occurred during activity reading
+[info] 2022-06-13T01:55:31.335Z User Authenticated!
+[info] 2022-06-13T01:55:52.259Z User Authenticated!
+[error] 2022-06-13T01:55:52.265Z Error occurred during activity reading
+[info] 2022-06-13T01:56:04.331Z User Authenticated!
+[info] 2022-06-13T01:59:52.553Z User Authenticated!
+[error] 2022-06-13T02:07:13.248Z Issue occurred in user authentication!
+[info] 2022-06-13T02:07:53.991Z User Authenticated!
+[info] 2022-06-13T02:08:12.229Z User Authenticated!
+[info] 2022-06-13T02:08:17.226Z User Authenticated!
+[error] 2022-06-13T02:11:35.084Z Issue occurred in user authentication!
+[info] 2022-06-13T02:13:32.402Z User: 62a61eded71db861f1a78460 logged in successfully!
+[info] 2022-06-13T02:13:38.272Z User Authenticated!
+[info] 2022-06-13T02:13:38.274Z Activity readed from User: 62a635ec63edee0f9643b367
+[info] 2022-06-13T02:17:17.862Z User Authenticated!
+[info] 2022-06-13T02:17:17.871Z Activity readed from User: 62a635ec63edee0f9643b367
+[info] 2022-06-13T02:17:38.192Z User Authenticated!
+[info] 2022-06-13T02:17:38.197Z Activity readed from User: 62a635ec63edee0f9643b367
+[info] 2022-06-13T02:18:09.071Z User Authenticated!
+[info] 2022-06-13T02:18:09.268Z Activity readed from User: 62a635ec63edee0f9643b367
+[error] 2022-06-13T02:20:54.333Z Issue occurred in user authentication!
+[info] 2022-06-13T02:20:59.335Z User: 62a61eded71db861f1a78460 logged in successfully!
+[error] 2022-06-13T02:21:04.424Z Issue occurred in user authentication!
+[info] 2022-06-13T02:21:28.891Z User Authenticated!
+[info] 2022-06-13T02:21:28.912Z Task readed from User: 62a61eded71db861f1a78460
+[info] 2022-06-13T02:22:39.148Z User Authenticated!
+[info] 2022-06-13T02:22:39.171Z Task readed from User: 62a61eded71db861f1a78460
+[info] 2022-06-13T02:23:07.667Z User Authenticated!
+[info] 2022-06-13T02:23:07.696Z Task readed from User: 62a61eded71db861f1a78460
+[info] 2022-06-13T02:40:58.829Z User Authenticated!
+[info] 2022-06-13T02:40:59.006Z Activity readed from User: 62a635ec63edee0f9643b367
+[info] 2022-06-13T02:46:57.335Z User Authenticated!
+[info] 2022-06-13T02:46:57.507Z Activity readed from User: 62a635ec63edee0f9643b367
+[error] 2022-06-13T02:46:57.509Z Error occurred during activity reading
+[info] 2022-06-13T02:48:24.919Z User Authenticated!
+[info] 2022-06-13T02:48:25.090Z Activity readed from User: 62a635ec63edee0f9643b367
+[info] 2022-06-13T02:52:54.958Z User Authenticated!
+[info] 2022-06-13T02:52:55.129Z Activity readed from Task: 62a635ec63edee0f9643b367
+[error] 2022-06-13T02:52:55.132Z Error occurred during activity reading
+[info] 2022-06-13T17:35:08.302Z User Authenticated!
+[info] 2022-06-13T17:35:08.329Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T17:39:03.507Z User Authenticated!
+[info] 2022-06-13T17:39:03.538Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T17:39:45.570Z User Authenticated!
+[info] 2022-06-13T17:39:45.596Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T17:42:14.503Z User Authenticated!
+[info] 2022-06-13T17:42:14.555Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T17:43:01.939Z User Authenticated!
+[info] 2022-06-13T17:43:01.971Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T17:45:52.062Z User Authenticated!
+[info] 2022-06-13T17:45:52.094Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T17:46:17.373Z User Authenticated!
+[info] 2022-06-13T17:46:17.383Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T23:55:20.662Z User Authenticated!
+[info] 2022-06-13T23:55:20.699Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T23:55:23.627Z User Authenticated!
+[info] 2022-06-13T23:55:23.639Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T23:55:28.320Z User Authenticated!
+[info] 2022-06-13T23:55:28.326Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T23:55:34.373Z User Authenticated!
+[info] 2022-06-13T23:55:34.400Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T23:55:36.322Z User Authenticated!
+[info] 2022-06-13T23:55:36.329Z Task cerated by User: 62a61eded71db861f1a78460
+[info] 2022-06-13T23:55:38.203Z User Authenticated!
+[info] 2022-06-13T23:55:38.212Z Task cerated by User: 62a61eded71db861f1a78460
+[error] 2022-06-13T23:59:36.900Z Error during user creation!!
+[info] 2022-06-13T23:59:44.391Z User Authenticated!
+[info] 2022-06-13T23:59:44.420Z User: 62a61eded71db861f1a78460 deleted
+[info] 2022-06-13T23:59:59.552Z User Created
+[error] 2022-06-14T00:00:17.332Z Error during user creation!!
+[info] 2022-06-14T00:00:24.273Z User Authenticated!
+[info] 2022-06-14T00:00:24.283Z User: 62a7cf7f1c94b3ab60448164 deleted
+[error] 2022-06-14T00:00:30.447Z Issue occurred in user authentication!
+[info] 2022-06-14T00:00:36.935Z User Created
+[info] 2022-06-14T00:00:55.561Z User: 62a7cfa41c94b3ab60448171 logged in successfully!
+[info] 2022-06-14T00:01:04.986Z User: 62a7cfa41c94b3ab60448171 logged in successfully!
+[info] 2022-06-14T00:01:25.825Z User: 62a7cfa41c94b3ab60448171 logged in successfully!
+[info] 2022-06-14T00:02:31.953Z User: 62a7cfa41c94b3ab60448171 logged in successfully!
+[info] 2022-06-14T00:45:55.690Z User Authenticated!
+[info] 2022-06-14T00:45:55.725Z Task cerated by User: 62a7cfa41c94b3ab60448171
+[info] 2022-06-14T00:46:25.018Z User Authenticated!
+[info] 2022-06-14T00:46:25.055Z Task cerated by User: 62a7cfa41c94b3ab60448171
+[info] 2022-06-14T00:51:13.913Z User Authenticated!
+[error] 2022-06-14T00:51:13.928Z Error occurred during activity creation
+[info] 2022-06-14T00:51:34.701Z User Authenticated!
+[error] 2022-06-14T00:51:34.712Z Error occurred during activity creation
+[info] 2022-06-14T00:51:53.654Z User Authenticated!
+[info] 2022-06-14T00:51:53.691Z Activity created for task: 62a7da6185e4304e55905173
+[info] 2022-06-14T00:52:09.639Z User Authenticated!
+[info] 2022-06-14T00:52:09.673Z Activity created for task: 62a7da6185e4304e55905173
+[info] 2022-06-14T00:52:20.294Z User Authenticated!
+[error] 2022-06-14T00:52:20.305Z Error occurred during activity creation
+[info] 2022-06-14T00:52:54.541Z User Authenticated!
+[info] 2022-06-14T00:53:11.892Z User Authenticated!
+[info] 2022-06-14T00:55:01.221Z User Authenticated!
+[error] 2022-06-14T00:55:01.239Z Error occurred during activity creation
+[info] 2022-06-14T00:55:39.305Z User Authenticated!
+[error] 2022-06-14T00:55:39.336Z Error occurred during activity creation
+[info] 2022-06-14T00:57:14.926Z User Authenticated!
+[error] 2022-06-14T00:57:14.941Z Error occurred during activity creation
+[info] 2022-06-14T00:57:23.598Z User Authenticated!
+[info] 2022-06-14T00:57:23.635Z Activity created for task: 62a7da6185e4304e55905173
+[info] 2022-06-14T01:03:51.740Z User Authenticated!
+[info] 2022-06-14T01:03:51.771Z Task cerated by User: 62a7cfa41c94b3ab60448171
+[info] 2022-06-14T01:03:56.610Z User Authenticated!
+[info] 2022-06-14T01:03:56.615Z Task cerated by User: 62a7cfa41c94b3ab60448171
+[info] 2022-06-14T01:04:12.279Z User Authenticated!
+[error] 2022-06-14T01:04:12.282Z Error occurred during activity creation
+[info] 2022-06-14T01:04:51.136Z User Authenticated!
+[error] 2022-06-14T01:04:51.146Z Error occurred during activity creation
+[info] 2022-06-14T01:06:30.219Z User Authenticated!
+[error] 2022-06-14T01:06:30.230Z Error occurred during activity creation
+[info] 2022-06-14T01:07:06.684Z User Authenticated!
+[info] 2022-06-14T01:07:06.725Z Activity created for task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:07:19.445Z User Authenticated!
+[info] 2022-06-14T01:07:19.458Z Activity created for task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:07:38.041Z User Authenticated!
+[info] 2022-06-14T01:07:38.056Z Activity created for task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:08:04.206Z User Authenticated!
+[info] 2022-06-14T01:08:04.241Z Activity created for task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:08:28.385Z User Authenticated!
+[info] 2022-06-14T01:08:40.329Z User Authenticated!
+[info] 2022-06-14T01:08:48.453Z User Authenticated!
+[info] 2022-06-14T01:09:24.330Z User Authenticated!
+[info] 2022-06-14T01:09:34.168Z User Authenticated!
+[info] 2022-06-14T01:09:39.797Z User Authenticated!
+[info] 2022-06-14T01:09:39.819Z Activity created for task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:10:32.903Z User Authenticated!
+[error] 2022-06-14T01:10:32.925Z Error occurred during activity creation
+[info] 2022-06-14T01:11:16.461Z User Authenticated!
+[error] 2022-06-14T01:11:16.490Z Error occurred during activity creation
+[info] 2022-06-14T01:11:31.610Z User Authenticated!
+[info] 2022-06-14T01:11:31.642Z Activity created for task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:12:59.368Z User Authenticated!
+[info] 2022-06-14T01:12:59.375Z Activity readed from Task: 62a7de7c1af65e4befe8eb35
+[error] 2022-06-14T01:12:59.378Z Error occurred during activity reading
+[info] 2022-06-14T01:13:12.157Z User Authenticated!
+[info] 2022-06-14T01:13:12.163Z Activity readed from Task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:14:04.144Z User Authenticated!
+[error] 2022-06-14T01:14:04.145Z Error occurred during activity reading
+[info] 2022-06-14T01:14:34.433Z User Authenticated!
+[error] 2022-06-14T01:14:34.444Z Error occurred during activity reading
+[info] 2022-06-14T01:15:19.819Z User Authenticated!
+[error] 2022-06-14T01:15:19.828Z Error occurred during activity reading
+[info] 2022-06-14T01:16:29.962Z User Authenticated!
+[error] 2022-06-14T01:16:29.985Z Error occurred during activity reading
+[info] 2022-06-14T01:16:31.321Z User Authenticated!
+[error] 2022-06-14T01:16:31.331Z Error occurred during activity reading
+[info] 2022-06-14T01:17:00.152Z User Authenticated!
+[error] 2022-06-14T01:17:00.173Z Error occurred during activity reading
+[info] 2022-06-14T01:17:01.906Z User Authenticated!
+[error] 2022-06-14T01:17:01.915Z Error occurred during activity reading
+[info] 2022-06-14T01:17:28.833Z User Authenticated!
+[info] 2022-06-14T01:17:28.872Z Activity readed from Task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:17:52.673Z User Authenticated!
+[info] 2022-06-14T01:17:52.715Z Activity readed from Task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:17:59.987Z User Authenticated!
+[info] 2022-06-14T01:18:04.940Z User Authenticated!
+[info] 2022-06-14T01:18:10.860Z User Authenticated!
+[info] 2022-06-14T01:18:10.889Z Activity readed from Task: 62a7de7c1af65e4befe8eb35
+[info] 2022-06-14T01:38:38.175Z User Created
+[info] 2022-06-14T01:41:47.863Z User Authenticated!
+[info] 2022-06-14T01:41:56.580Z User Authenticated!
+[info] 2022-06-14T01:41:56.610Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T01:42:02.494Z User Authenticated!
+[info] 2022-06-14T01:42:02.526Z Activity created for task: 62a7e7645378358a9417d221
+[info] 2022-06-14T01:42:17.176Z User Authenticated!
+[info] 2022-06-14T01:42:17.261Z Activity readed from Task: 62a7e7645378358a9417d221
+[info] 2022-06-14T01:54:03.720Z User Authenticated!
+[error] 2022-06-14T01:54:03.724Z Error occurred in reading activity from given ID
+[info] 2022-06-14T01:54:36.908Z User Authenticated!
+[error] 2022-06-14T01:54:36.923Z Error occurred in reading activity from given ID
+[info] 2022-06-14T01:55:44.578Z User Authenticated!
+[error] 2022-06-14T01:55:44.596Z Error occurred in reading activity from given ID
+[info] 2022-06-14T01:57:01.374Z User Authenticated!
+[info] 2022-06-14T01:57:01.389Z Activity readed for given task id: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:06:23.129Z User Authenticated!
+[info] 2022-06-14T02:06:23.168Z Activity updated of Task: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:12:45.934Z User Authenticated!
+[info] 2022-06-14T02:13:06.506Z User Authenticated!
+[info] 2022-06-14T02:13:06.516Z Task deleted from User: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:13:13.764Z User Authenticated!
+[info] 2022-06-14T02:14:04.493Z User Authenticated!
+[info] 2022-06-14T02:14:04.540Z Activity created for task: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:14:05.771Z User Authenticated!
+[info] 2022-06-14T02:14:05.788Z Activity created for task: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:14:06.951Z User Authenticated!
+[info] 2022-06-14T02:14:06.964Z Activity created for task: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:14:08.300Z User Authenticated!
+[info] 2022-06-14T02:14:08.333Z Activity created for task: 62a7e7645378358a9417d221
+[info] 2022-06-14T02:14:14.490Z User Authenticated!
+[info] 2022-06-14T02:14:29.516Z User Authenticated!
+[info] 2022-06-14T02:14:29.521Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:14:35.000Z User Authenticated!
+[info] 2022-06-14T02:16:02.627Z User Authenticated!
+[info] 2022-06-14T02:16:09.052Z User Authenticated!
+[info] 2022-06-14T02:16:09.077Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:16:14.887Z User Authenticated!
+[info] 2022-06-14T02:16:14.907Z Activity created for task: 62a7ef692dfc572e29a22627
+[info] 2022-06-14T02:16:15.903Z User Authenticated!
+[info] 2022-06-14T02:16:15.913Z Activity created for task: 62a7ef692dfc572e29a22627
+[info] 2022-06-14T02:16:17.180Z User Authenticated!
+[info] 2022-06-14T02:16:17.191Z Activity created for task: 62a7ef692dfc572e29a22627
+[info] 2022-06-14T02:16:36.077Z User Authenticated!
+[info] 2022-06-14T02:16:36.081Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:18:19.165Z User Authenticated!
+[info] 2022-06-14T02:18:19.170Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:18:25.687Z User Authenticated!
+[info] 2022-06-14T02:18:25.695Z Activity created for task: 62a7efeb2dfc572e29a22640
+[info] 2022-06-14T02:18:27.061Z User Authenticated!
+[info] 2022-06-14T02:18:27.069Z Activity created for task: 62a7efeb2dfc572e29a22640
+[info] 2022-06-14T02:18:28.029Z User Authenticated!
+[info] 2022-06-14T02:18:28.037Z Activity created for task: 62a7efeb2dfc572e29a22640
+[info] 2022-06-14T02:18:28.905Z User Authenticated!
+[info] 2022-06-14T02:18:28.913Z Activity created for task: 62a7efeb2dfc572e29a22640
+[info] 2022-06-14T02:18:29.800Z User Authenticated!
+[info] 2022-06-14T02:18:29.808Z Activity created for task: 62a7efeb2dfc572e29a22640
+[info] 2022-06-14T02:18:38.663Z User Authenticated!
+[info] 2022-06-14T02:18:38.715Z Activity readed from Task: 62a7efeb2dfc572e29a22640
+[info] 2022-06-14T02:20:01.485Z User Authenticated!
+[info] 2022-06-14T02:20:01.488Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:22:32.187Z User Authenticated!
+[info] 2022-06-14T02:22:32.212Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:22:37.094Z User Authenticated!
+[info] 2022-06-14T02:22:37.105Z Activity created for task: 62a7f0e8cf1a2d967c160fa3
+[info] 2022-06-14T02:22:49.373Z User Authenticated!
+[info] 2022-06-14T02:22:49.379Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:27:43.932Z User Authenticated!
+[info] 2022-06-14T02:27:43.958Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:27:49.421Z User Authenticated!
+[info] 2022-06-14T02:27:49.439Z Activity created for task: 62a7f21fbb5a2f04149ed9d8
+[info] 2022-06-14T02:27:52.870Z User Authenticated!
+[info] 2022-06-14T02:28:04.912Z User Authenticated!
+[info] 2022-06-14T02:28:04.920Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:44:37.484Z User Authenticated!
+[info] 2022-06-14T02:44:37.507Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:44:45.640Z User Authenticated!
+[info] 2022-06-14T02:44:45.654Z Activity created for task: 62a7f6152872b39b1e8657a8
+[info] 2022-06-14T02:44:53.517Z User Authenticated!
+[error] 2022-06-14T02:44:53.523Z Error occurred in task deletion
+[info] 2022-06-14T02:45:00.356Z User Authenticated!
+[error] 2022-06-14T02:45:00.360Z Error occurred in task deletion
+[info] 2022-06-14T02:46:23.008Z User Authenticated!
+[error] 2022-06-14T02:46:23.016Z Error occurred in task deletion
+[info] 2022-06-14T02:46:49.691Z User Authenticated!
+[error] 2022-06-14T02:46:49.698Z Error occurred in task deletion
+[info] 2022-06-14T02:47:14.296Z User Authenticated!
+[info] 2022-06-14T02:47:55.054Z User Authenticated!
+[info] 2022-06-14T02:47:55.075Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:48:02.636Z User Authenticated!
+[info] 2022-06-14T02:48:02.656Z Activity created for task: 62a7f6db7faa878eff25dea5
+[info] 2022-06-14T02:48:16.047Z User Authenticated!
+[info] 2022-06-14T02:48:16.070Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:48:31.176Z User Authenticated!
+[info] 2022-06-14T02:48:31.197Z Task cerated by User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T02:48:34.992Z User Authenticated!
+[info] 2022-06-14T02:48:35.006Z Activity created for task: 62a7f6ff094edfa90e9f9e24
+[info] 2022-06-14T02:48:35.771Z User Authenticated!
+[info] 2022-06-14T02:48:35.780Z Activity created for task: 62a7f6ff094edfa90e9f9e24
+[info] 2022-06-14T02:48:36.438Z User Authenticated!
+[info] 2022-06-14T02:48:36.449Z Activity created for task: 62a7f6ff094edfa90e9f9e24
+[info] 2022-06-14T02:48:37.207Z User Authenticated!
+[info] 2022-06-14T02:48:37.218Z Activity created for task: 62a7f6ff094edfa90e9f9e24
+[info] 2022-06-14T02:49:05.760Z User Authenticated!
+[info] 2022-06-14T02:49:05.770Z Task deleted from User: 62a7e69e5378358a9417d217
+[info] 2022-06-14T03:11:57.995Z User Created
+[info] 2022-06-14T03:12:02.559Z User: 62a7fc7d962b4bcd4c01d7c7 logged in successfully!
+[info] 2022-06-14T03:12:08.604Z User Authenticated!
+[info] 2022-06-14T03:12:08.606Z Forgot password email sent successfully by User: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:12:12.401Z User Authenticated!
+[error] 2022-06-14T03:12:12.523Z Error occurred during verifying OTP
+[info] 2022-06-14T03:12:16.923Z User Authenticated!
+[info] 2022-06-14T03:12:16.950Z Task cerated by User: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:12:20.658Z User Authenticated!
+[info] 2022-06-14T03:12:20.690Z Activity created for task: 62a7fc90962b4bcd4c01d7db
+[info] 2022-06-14T03:12:24.768Z User Authenticated!
+[info] 2022-06-14T03:12:24.770Z User readed!
+[info] 2022-06-14T03:12:29.370Z User Authenticated!
+[info] 2022-06-14T03:12:29.384Z Task readed from User: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:12:32.723Z User Authenticated!
+[info] 2022-06-14T03:12:32.735Z Activity readed from Task: 62a7fc90962b4bcd4c01d7db
+[info] 2022-06-14T03:12:47.950Z User Authenticated!
+[info] 2022-06-14T03:12:47.956Z Activity readed for given task id: 62a7fc90962b4bcd4c01d7db
+[info] 2022-06-14T03:12:52.648Z User Authenticated!
+[info] 2022-06-14T03:13:02.935Z User Authenticated!
+[info] 2022-06-14T03:13:02.942Z Activity updated of Task: 62a7fc90962b4bcd4c01d7db
+[info] 2022-06-14T03:13:49.141Z User Authenticated!
+[info] 2022-06-14T03:13:49.149Z Task readed for given user id: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:14:12.533Z User Authenticated!
+[info] 2022-06-14T03:14:12.613Z User: 62a7fc7d962b4bcd4c01d7c7 updated
+[info] 2022-06-14T03:14:21.570Z User Authenticated!
+[info] 2022-06-14T03:14:31.760Z User Authenticated!
+[info] 2022-06-14T03:14:31.770Z Task updated in User: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:14:43.964Z User Authenticated!
+[info] 2022-06-14T03:15:29.049Z User Authenticated!
+[info] 2022-06-14T03:15:29.052Z Task deleted from User: 62a7fc90962b4bcd4c01d7db
+[info] 2022-06-14T03:15:33.598Z User Authenticated!
+[info] 2022-06-14T03:15:33.663Z Activity created for task: 62a7fc90962b4bcd4c01d7db
+[info] 2022-06-14T03:15:45.760Z User Authenticated!
+[info] 2022-06-14T03:15:45.769Z Task deleted from User: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:16:03.005Z User Authenticated!
+[info] 2022-06-14T03:16:03.010Z Task cerated by User: 62a7fc7d962b4bcd4c01d7c7
+[info] 2022-06-14T03:16:06.830Z User Authenticated!
+[info] 2022-06-14T03:16:06.838Z Activity created for task: 62a7fd732478a8be71b1d813
+[info] 2022-06-14T03:16:36.142Z User Authenticated!
+[error] 2022-06-14T03:16:36.143Z Error occurred in user deletion
+[info] 2022-06-14T03:17:08.763Z User Authenticated!
+[error] 2022-06-14T03:17:08.766Z Error occurred in user deletion
+[info] 2022-06-14T03:17:52.310Z User Authenticated!
+[error] 2022-06-14T03:17:52.314Z Error occurred in user deletion
+[info] 2022-06-14T03:18:08.070Z User Authenticated!
+[error] 2022-06-14T03:18:08.075Z Error occurred in user deletion
+[info] 2022-06-14T03:21:22.306Z User Authenticated!
+[info] 2022-06-14T03:21:22.334Z User: 62a7fc7d962b4bcd4c01d7c7 deleted
+[error] 2022-06-14T03:21:22.338Z Error occurred in user deletion
+[error] 2022-06-14T03:21:41.591Z Issue occurred in user authentication!
+[error] 2022-06-14T03:23:09.229Z Error during user logging
+[info] 2022-06-14T03:24:21.925Z User Created
+[info] 2022-06-14T03:24:27.740Z User: 62a7ff659a280fdcbd8616be logged in successfully!
+[info] 2022-06-14T03:24:31.735Z User Authenticated!
+[info] 2022-06-14T03:24:31.749Z User: 62a7ff659a280fdcbd8616be deleted
+[info] 2022-06-14T03:24:53.709Z User Created
+[info] 2022-06-14T03:24:59.873Z User Authenticated!
+[info] 2022-06-14T03:24:59.899Z Task cerated by User: 62a7ff859a280fdcbd8616cd
+[info] 2022-06-14T03:25:02.857Z User Authenticated!
+[info] 2022-06-14T03:25:02.891Z Activity created for task: 62a7ff8b9a280fdcbd8616d5
+[info] 2022-06-14T03:25:13.755Z User Authenticated!
+[info] 2022-06-14T03:25:13.760Z User: 62a7ff859a280fdcbd8616cd deleted
+[error] 2022-06-14T03:40:38.393Z Error during user creation!!
+[error] 2022-06-14T03:41:23.186Z Error during user creation!!
+[error] 2022-06-14T03:41:40.187Z Error during user creation!!
+[error] 2022-06-14T03:42:52.292Z Error during user creation!!
+[error] 2022-06-14T03:44:44.910Z Error during user creation!!
+[info] 2022-06-14T03:48:31.075Z User Created
+[error] 2022-06-14T04:42:43.932Z Error during user creation!!
+[info] 2022-06-14T04:42:54.368Z User Authenticated!
+[info] 2022-06-14T04:42:54.394Z User: 62a8050e0973d296ebc89251 deleted
+[info] 2022-06-14T04:42:57.995Z User Created
+[error] 2022-06-14T04:44:46.257Z Error during user creation!!
+[error] 2022-06-14T04:44:49.545Z Error during user logging
+[info] 2022-06-14T04:45:10.718Z User Authenticated!
+[info] 2022-06-14T04:45:10.720Z Forgot password email sent successfully by User: 62a811d195ae299c247ce8bc
+[error] 2022-06-14T04:45:15.320Z Error during user logging
+[info] 2022-06-14T04:46:24.431Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-14T04:46:29.774Z User Authenticated!
+[error] 2022-06-14T04:46:29.920Z Error occurred during verifying OTP
+[info] 2022-06-14T04:46:34.943Z User Authenticated!
+[info] 2022-06-14T04:46:34.953Z Task cerated by User: 62a811d195ae299c247ce8bc
+[info] 2022-06-14T04:46:38.455Z User Authenticated!
+[info] 2022-06-14T04:46:38.471Z Activity created for task: 62a812aa406953fbf3cdb86b
+[info] 2022-06-14T05:53:11.154Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-14T05:59:15.944Z User Authenticated!
+[info] 2022-06-14T05:59:34.590Z User Authenticated!
+[info] 2022-06-14T05:59:40.149Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-14T05:59:51.400Z User Authenticated!
+[info] 2022-06-14T06:18:45.634Z User Authenticated!
+[info] 2022-06-14T06:18:53.601Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-14T06:18:58.952Z User Authenticated!
+[info] 2022-06-14T06:19:38.221Z User Authenticated!
