@@ -5,3 +5,4 @@ nginx-1.22.0
 tests
 ecosystem.config.js
 math.js
+myLogs.log
