@@ -5,6 +5,7 @@ const userRouter = require("../routers/user");
 const taskRouter = require("../routers/task");
 const activityRouter = require("../routers/activity");
 const authRouter = require("../routers/auth");
+const analysisRouter = require("../routers/analysis");
 const helpers = require("../helpers/helpers");
 // const auth = require("./middleware/auth");
 
@@ -16,6 +17,7 @@ app.use(userRouter);
 app.use(taskRouter);
 app.use(activityRouter);
 app.use(authRouter);
+app.use(analysisRouter)
 
 // //swagger
 // const swaggerJsDoc = require("swagger-jsdoc");
