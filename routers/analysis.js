@@ -20,4 +20,10 @@ router.post(
 	analysisController.activityCountMonthly
 );
 
+router.post(
+	"/activity-count-dynamically",
+	auth,
+	analysisController.activityCountDynamically
+);
+
 module.exports = router;

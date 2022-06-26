@@ -946,3 +946,208 @@
 [info] 2022-06-14T06:18:53.601Z User: 62a811d195ae299c247ce8bc logged in successfully!
 [info] 2022-06-14T06:18:58.952Z User Authenticated!
 [info] 2022-06-14T06:19:38.221Z User Authenticated!
+[error] 2022-06-16T13:04:17.589Z Issue occurred in user authentication!
+[info] 2022-06-16T13:04:23.069Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-16T13:04:29.826Z User Authenticated!
+[info] 2022-06-16T13:04:29.856Z Task readed from User: 62a811d195ae299c247ce8bc
+[error] 2022-06-16T13:07:48.382Z Error during user logging
+[error] 2022-06-16T13:08:02.220Z Error during user logging
+[error] 2022-06-16T13:08:37.064Z Error during task logging
+[error] 2022-06-16T13:09:03.541Z Error during task logging
+[error] 2022-06-16T13:09:59.623Z Error during task logging
+[error] 2022-06-16T13:10:41.518Z Error during task logging
+[info] 2022-06-16T13:14:15.778Z Task: 62a99730c8b178026e71b0a6 logged in successfully!
+[info] 2022-06-16T13:14:35.620Z Task: 62a99730c8b178026e71b0a6 logged in successfully!
+[info] 2022-06-16T13:14:45.591Z Task: 62a812aa406953fbf3cdb86b logged in successfully!
+[info] 2022-06-16T13:14:58.263Z User Authenticated!
+[info] 2022-06-16T13:14:58.348Z Activity created for task: 62a812aa406953fbf3cdb86b
+[info] 2022-06-16T13:15:04.543Z Task: 62a99730c8b178026e71b0a6 logged in successfully!
+[info] 2022-06-16T13:15:07.692Z User Authenticated!
+[info] 2022-06-16T13:15:07.705Z Activity created for task: 62a99730c8b178026e71b0a6
+[info] 2022-06-16T13:15:12.144Z User Authenticated!
+[info] 2022-06-16T13:15:17.749Z Task: 62a812aa406953fbf3cdb86b logged in successfully!
+[info] 2022-06-16T13:15:20.126Z User Authenticated!
+[info] 2022-06-16T13:15:24.793Z User Authenticated!
+[info] 2022-06-16T13:23:29.510Z User Authenticated!
+[info] 2022-06-16T13:23:59.701Z User Authenticated!
+[info] 2022-06-16T13:25:27.994Z User Authenticated!
+[info] 2022-06-16T13:26:24.675Z User Authenticated!
+[info] 2022-06-16T13:26:40.565Z User Authenticated!
+[info] 2022-06-16T13:26:40.608Z Activity created for task: 62a812aa406953fbf3cdb86b
+[info] 2022-06-16T13:27:40.422Z User Authenticated!
+[info] 2022-06-16T13:28:21.353Z User Authenticated!
+[info] 2022-06-16T13:28:21.408Z Activity created for task: 62a812aa406953fbf3cdb86b
+[info] 2022-06-16T13:28:51.162Z User Authenticated!
+[info] 2022-06-16T13:28:51.209Z Activity created for task: 62a812aa406953fbf3cdb86b
+[error] 2022-06-20T04:15:44.674Z Issue occurred in user authentication!
+[info] 2022-06-20T04:15:49.437Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-20T04:15:53.785Z User Authenticated!
+[info] 2022-06-20T04:17:00.989Z User Authenticated!
+[info] 2022-06-20T04:17:12.779Z User Authenticated!
+[info] 2022-06-20T04:17:22.034Z User Authenticated!
+[info] 2022-06-20T04:17:27.174Z User Authenticated!
+[info] 2022-06-20T04:17:27.215Z Activity created for task: 62a812aa406953fbf3cdb86b
+[info] 2022-06-20T04:17:32.395Z User Authenticated!
+[error] 2022-06-20T07:09:25.725Z Error during user logging
+[info] 2022-06-20T07:09:52.804Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-20T07:09:59.858Z User Authenticated!
+[info] 2022-06-20T07:10:13.114Z User Authenticated!
+[info] 2022-06-20T07:10:17.819Z User Authenticated!
+[info] 2022-06-20T07:33:03.780Z User Authenticated!
+[info] 2022-06-20T07:33:03.808Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-20T07:33:12.370Z Task: 62a812aa406953fbf3cdb86b logged in successfully!
+[error] 2022-06-21T06:43:10.495Z Error during user logging
+[error] 2022-06-21T07:31:48.478Z Error during user logging
+[info] 2022-06-21T07:32:39.501Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T07:33:03.725Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T07:34:56.748Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[error] 2022-06-21T07:35:41.594Z Error during user logging
+[error] 2022-06-21T07:37:05.414Z Error during user logging
+[info] 2022-06-21T07:38:32.483Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T07:42:00.510Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T07:43:12.220Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T07:44:22.720Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T12:23:04.933Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[error] 2022-06-21T12:23:14.961Z Error during user creation!!
+[info] 2022-06-21T12:23:23.301Z User Created
+[info] 2022-06-21T12:23:28.556Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T14:43:44.136Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T14:43:49.360Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T14:43:57.463Z User: 62b1b83b8c9d279b7534825b logged in successfully!
+[info] 2022-06-21T14:44:02.855Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[info] 2022-06-21T14:44:17.412Z User Authenticated!
+[info] 2022-06-21T14:44:17.418Z Task cerated by User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T14:44:22.280Z Task: 62a812aa406953fbf3cdb86b logged in successfully!
+[info] 2022-06-21T15:42:25.852Z User Authenticated!
+[info] 2022-06-21T15:42:25.860Z Task cerated by User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T15:42:33.101Z User Authenticated!
+[info] 2022-06-21T15:42:36.977Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T15:46:11.402Z User Authenticated!
+[info] 2022-06-21T15:46:21.695Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T15:47:14.801Z User Authenticated!
+[info] 2022-06-21T15:47:37.449Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T15:47:55.628Z User Authenticated!
+[info] 2022-06-21T15:48:05.035Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T15:49:32.057Z User Authenticated!
+[info] 2022-06-21T15:49:51.557Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T15:50:14.941Z User Authenticated!
+[info] 2022-06-21T15:50:26.884Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T16:11:03.134Z User Authenticated!
+[info] 2022-06-21T16:11:05.482Z Task readed from User: 62a811d195ae299c247ce8bc
+[info] 2022-06-21T17:19:24.820Z User Authenticated!
+[info] 2022-06-21T17:19:25.002Z Activity readed from Task: 62b1e6e134a40895035a4502
+[info] 2022-06-21T17:35:50.709Z User Authenticated!
+[info] 2022-06-21T17:40:14.140Z User Authenticated!
+[info] 2022-06-21T17:40:59.640Z User Authenticated!
+[info] 2022-06-21T17:42:47.982Z User Authenticated!
+[info] 2022-06-21T17:43:27.925Z User Authenticated!
+[info] 2022-06-21T17:43:47.685Z User Authenticated!
+[info] 2022-06-21T17:44:09.695Z User Authenticated!
+[info] 2022-06-21T17:44:34.132Z User Authenticated!
+[info] 2022-06-21T17:45:43.020Z User Authenticated!
+[info] 2022-06-21T17:46:23.546Z User Authenticated!
+[info] 2022-06-21T17:47:34.026Z User Authenticated!
+[info] 2022-06-21T17:48:03.662Z User Authenticated!
+[info] 2022-06-21T17:48:21.068Z User Authenticated!
+[info] 2022-06-21T17:48:48.303Z User Authenticated!
+[info] 2022-06-21T17:49:00.049Z User Authenticated!
+[info] 2022-06-21T17:49:48.471Z User Authenticated!
+[info] 2022-06-21T17:50:44.373Z User Authenticated!
+[info] 2022-06-21T17:52:08.557Z User Authenticated!
+[info] 2022-06-21T17:52:27.042Z User Authenticated!
+[info] 2022-06-21T17:55:19.486Z User Authenticated!
+[info] 2022-06-21T17:55:45.650Z User Authenticated!
+[info] 2022-06-22T03:30:33.547Z User Authenticated!
+[info] 2022-06-22T03:32:49.158Z User Authenticated!
+[info] 2022-06-22T03:32:56.939Z Task readed from User: 62a811d195ae299c247ce8bc
+[error] 2022-06-26T04:08:19.082Z Error during user creation!!
+[error] 2022-06-26T04:08:27.058Z Error during user creation!!
+[info] 2022-06-26T04:08:37.714Z User Created
+[info] 2022-06-26T04:13:01.794Z User Authenticated!
+[info] 2022-06-26T04:13:02.044Z User: 62b7dbc599f5d3a3402a37be deleted
+[info] 2022-06-26T04:25:36.627Z User Created
+[info] 2022-06-26T04:27:21.835Z User Authenticated!
+[info] 2022-06-26T04:27:21.978Z User: 62b7dfc055c149e4b9031fcf deleted
+[info] 2022-06-26T04:27:31.751Z User Created
+[info] 2022-06-26T04:28:10.639Z User Authenticated!
+[info] 2022-06-26T04:28:10.786Z User: 62b7e033237d8ebd439aae36 deleted
+[info] 2022-06-26T04:28:14.236Z User Created
+[info] 2022-06-26T04:33:59.340Z User Authenticated!
+[info] 2022-06-26T04:33:59.346Z Forgot password email sent successfully by User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:35:47.899Z User Authenticated!
+[info] 2022-06-26T04:35:47.903Z Forgot password email sent successfully by User: 62b7e05e6d7b692a5c5e6c8b
+[error] 2022-06-26T04:35:53.119Z Message failed: 554 5.2.252 SendAsDenied; uttambhavani007@outlook.com not allowed to send as uttambhavani2003@gmail.com; STOREDRV.Submission.Exception:SendAsDeniedException.MapiExceptionSendAsDenied; Failed to process message due to a permanent exception with message [BeginDiagnosticData]Cannot submit message. 0.35250:0C040000, 1.36674:0A000000, 1.61250:00000000, 1.45378:02000000, 1.44866:59020000, 1.36674:0E000000, 1.61250:00000000, 1.45378:5E020000, 1.44866:58010000, 16.55847:2B040000, 17.43559:0000000024020000000000000000000000000000, 20.52176:140FFD9412004010F1030000, 20.50032:140FFD9482174010F1030000, 0.35180:00000000, 255.23226:00000000, 255.27962:0A000000, 255.27962:0E000000, 255.31418:0A000000, 0.35250:00000000, 1.36674:0A000000, 1.61250:00000000, 1.45378:02000000, 1.44866:32000000, 1.36674:32000000, 1.61250:00000000, 1.45378:37000000, 1.44866:01000000, 16.55847:AD000000, 17.43559:0000000098030000000000000000000000000000, 20.52176:140FFD941200101060000000, 20.50032:140FFD948217F01F80030400, 0.35180:0A000000, 255.23226:0A001380, 255.27962:0A000000, 255.27962:32000000, 255.17082:DC040000, 0.27745:02000000, 4.21921:DC040000, 255.27962:FA000000, 255.1494:00000000, 0.38698:46000000, 1.41134:46000000, 7.36354:010000000000010B46000000, 0.37692:01000000, 0.37948:86000000, 5.33852:00000000534D545000000000, 7.36354:010000000000010901000000, 4.56248:DC040000, 7.40748:010000000000010B01000000, 7.57132:000000000000000086000000, 4.39640:DC040000, 1.63016:32000000, 8.45434:FDBF0300334D66710000000000000000FE7F0300, 1.46798:04000000, 5.10786:0000000031352E32302E353337332E3031383A534C32503231364D42313236323A32653665616433332D363733322D343533372D393439352D6131383734316232643765303A3336373730340034316232643765, 7.51330:886DFC5A2D57DA0836C4AE3B, 0.39570:DD4E2D3C, 1.55954:0A000000, 0.49266:A4000000, 1.33010:0A000000, 2.54258:00000000, 0.40002:07000000, 1.56562:00000000, 1.64146:32000000, 1.33010:32000000, 2.54258:DC040000, 255.1750:C8020000, 255.31418:BA000000, 0.22753:03000336, 255.21817:DC040000, 0.64418:BF000000, 4.39842:DC040000, 0.41586:D2020000, 4.60547:DC040000, 0.21966:0A003267, 4.30158:DC040000[EndDiagnosticData] [Hostname=SL2P216MB1262.KORP216.PROD.OUTLOOK.COM]
+[info] 2022-06-26T04:37:08.821Z User Authenticated!
+[info] 2022-06-26T04:37:08.825Z Forgot password email sent successfully by User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:37:41.467Z User Authenticated!
+[error] 2022-06-26T04:37:41.482Z Error occurred during verifying OTP
+[info] 2022-06-26T04:37:51.809Z User Authenticated!
+[error] 2022-06-26T04:37:51.813Z Error occurred during verifying OTP
+[info] 2022-06-26T04:38:05.564Z User Authenticated!
+[info] 2022-06-26T04:38:05.565Z Forgot password email sent successfully by User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:38:33.434Z User Authenticated!
+[info] 2022-06-26T04:38:33.586Z User: 62b7e05e6d7b692a5c5e6c8b has verified OTP and password updated successfully
+[info] 2022-06-26T04:38:51.010Z User: 62a811d195ae299c247ce8bc logged in successfully!
+[error] 2022-06-26T04:38:59.420Z Error during user logging
+[info] 2022-06-26T04:39:06.970Z User: 62b7e05e6d7b692a5c5e6c8b logged in successfully!
+[info] 2022-06-26T04:40:07.161Z User Authenticated!
+[info] 2022-06-26T04:40:07.171Z Task cerated by User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:40:18.507Z Task: 62a812aa406953fbf3cdb86b logged in successfully!
+[info] 2022-06-26T04:40:48.194Z Task: 62b7e327ffb3cb3b6515f229 logged in successfully!
+[info] 2022-06-26T04:40:53.003Z User Authenticated!
+[info] 2022-06-26T04:40:53.141Z Activity created for task: 62b7e327ffb3cb3b6515f229
+[info] 2022-06-26T04:40:57.428Z User Authenticated!
+[info] 2022-06-26T04:40:57.429Z User readed!
+[info] 2022-06-26T04:41:01.549Z User Authenticated!
+[info] 2022-06-26T04:41:01.730Z Task readed from User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:41:06.134Z User Authenticated!
+[info] 2022-06-26T04:41:06.430Z Activity readed from Task: 62b7e327ffb3cb3b6515f229
+[info] 2022-06-26T04:41:19.382Z User Authenticated!
+[info] 2022-06-26T04:41:19.390Z Activity readed for given task id: 62b7e327ffb3cb3b6515f229
+[info] 2022-06-26T04:41:39.402Z User Authenticated!
+[info] 2022-06-26T04:41:39.405Z Task readed for given user id: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:41:43.587Z User Authenticated!
+[info] 2022-06-26T04:41:53.785Z User Authenticated!
+[info] 2022-06-26T04:41:53.791Z Activity updated of Task: 62b7e327ffb3cb3b6515f229
+[info] 2022-06-26T04:42:01.988Z User Authenticated!
+[info] 2022-06-26T04:42:02.037Z User: 62b7e05e6d7b692a5c5e6c8b updated
+[error] 2022-06-26T04:42:18.870Z Error during user logging
+[info] 2022-06-26T04:42:23.998Z User: 62b7e05e6d7b692a5c5e6c8b logged in successfully!
+[info] 2022-06-26T04:42:41.945Z User Authenticated!
+[info] 2022-06-26T04:42:41.953Z Task updated in User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:42:58.377Z User Authenticated!
+[info] 2022-06-26T04:42:58.521Z Task deleted from User: 62b7e05e6d7b692a5c5e6c8b
+[info] 2022-06-26T04:43:10.182Z User Authenticated!
+[info] 2022-06-26T04:43:19.874Z User Authenticated!
+[info] 2022-06-26T04:43:20.008Z User: 62b7e05e6d7b692a5c5e6c8b deleted
+[info] 2022-06-26T04:47:46.036Z User Created
+[info] 2022-06-26T04:47:50.311Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[error] 2022-06-26T04:47:54.608Z Error during user logging
+[error] 2022-06-26T04:48:09.964Z Error during user logging
+[error] 2022-06-26T04:49:12.682Z Error during user logging
+[error] 2022-06-26T04:49:46.944Z Error during user logging
+[error] 2022-06-26T04:49:49.239Z Error during user logging
+[error] 2022-06-26T04:50:24.858Z Error during user logging
+[info] 2022-06-26T04:50:47.435Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[error] 2022-06-26T04:50:54.071Z Error during user logging
+[error] 2022-06-26T04:51:16.290Z Error during user logging
+[error] 2022-06-26T04:51:27.962Z Error during user logging
+[info] 2022-06-26T04:51:36.667Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[error] 2022-06-26T04:51:52.082Z Error during user logging
+[error] 2022-06-26T04:52:16.418Z Error during user logging
+[error] 2022-06-26T04:53:07.132Z Error during user logging
+[error] 2022-06-26T04:53:51.672Z Error during user logging
+[info] 2022-06-26T04:53:54.356Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[info] 2022-06-26T04:58:39.742Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[info] 2022-06-26T04:59:03.100Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[info] 2022-06-26T05:01:37.658Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[info] 2022-06-26T05:02:18.714Z User Authenticated!
+[info] 2022-06-26T05:02:18.743Z Auth Tokens are generated for User : 62b7e4f1cce545a0e2153c66
+[error] 2022-06-26T07:00:08.633Z Issue occurred in user authentication!
+[error] 2022-06-26T07:00:15.843Z Issue occurred in user authentication!
+[error] 2022-06-26T07:00:19.825Z Error during user creation!!
+[error] 2022-06-26T07:00:28.574Z Issue occurred in user authentication!
+[error] 2022-06-26T07:00:34.298Z Issue occurred in user authentication!
+[error] 2022-06-26T07:01:02.437Z Issue occurred in user authentication!
+[info] 2022-06-26T07:01:48.792Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[error] 2022-06-26T07:01:53.720Z Issue occurred in user authentication!

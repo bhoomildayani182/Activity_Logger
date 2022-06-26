@@ -44,12 +44,24 @@ const activityCountWeekly = async (req, res) => {
 const activityCountMonthly = async (req, res) => {
 	try {
 		//Validation
-		console.log("1");
 		await authSchema.activityCountMonthly.validateAsync(req.body);
 		//Processing
 		console.log(req.body);
 		const result = await repo.activityCountMonthly(req);
-		console.log("2");
+		// Sending Response
+		helpers.successResponse(result[0], result[1], res);
+	} catch (error) {
+		helpers.errorResponse(403, error.details[0].message, res);
+	}
+};
+
+const activityCountDynamically = async (req, res) => {
+	try {
+		//Validation
+		await authSchema.activityCountDynamically.validateAsync(req.body);
+		//Processing
+		console.log(req.body);
+		const result = await repo.activityCountDynamically(req);
 		// Sending Response
 		helpers.successResponse(result[0], result[1], res);
 	} catch (error) {
@@ -62,4 +74,5 @@ module.exports = {
 	activityCountDaily,
 	activityCountWeekly,
 	activityCountMonthly,
+	activityCountDynamically,
 };

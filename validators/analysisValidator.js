@@ -16,9 +16,16 @@ const activityCountMonthly = joi.object({
 	ActivityName: joi.string().required(),
 });
 
+const activityCountDynamically = joi.object({
+	ActivityName: joi.string().required(),
+	fromDate: joi.date(),
+	toDate: joi.date(),
+});
+
 module.exports = {
 	activityCount,
 	activityCountDaily,
 	activityCountWeekly,
 	activityCountMonthly,
+	activityCountDynamically,
 };

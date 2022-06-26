@@ -5,7 +5,7 @@ const router = new express.Router();
 const userController = require("../controllers/userController");
 
 const use = (fn) => (req, res, next) =>
-  Promise.resolve(fn(req, res, next)).catch(next);
+	Promise.resolve(fn(req, res, next)).catch(next);
 
 //Create User
 router.post("/users", use(userController.createUser));
@@ -22,23 +22,14 @@ router.post("/users/logoutAll", auth, userController.allUserLogout);
 //Read All Users / One user which is logged in
 router.get("/users/me", auth, userController.readUsers);
 
-//Upload an avatar(image)
-router.post("/users/me/avatar", auth, userController.uploadAvatar);
-
-//delete Avatar
-router.delete("/users/me/avatar", auth, userController.deleteAvatar);
-
-//get avatar
-router.get("/users/:id/avatar", userController.getAvatar);
-
 //Updating Users
 router.patch("/users/me", auth, userController.updateUser);
 
 //forget password
 router.post(
-  "/users/me/forgetpassword",
-  auth,
-  userController.forgotPasswordUser
+	"/users/me/forgetpassword",
+	auth,
+	userController.forgotPasswordUser
 );
 
 router.post("/user/me/verifyOtp", auth, userController.verifyPasswordUser);

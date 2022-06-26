@@ -4,11 +4,14 @@ const authSchema = require("../validators/activityValidator.js");
 
 const createActivity = async (req, res) => {
 	try {
+		console.log("1");
 		//Validation
 		await authSchema.createActivity.validateAsync(req.body);
+		console.log("2");
 
 		//Processing
 		const result = await repo.createActivity(req);
+		console.log("3");
 
 		// Sending Response
 		helpers.successResponse(result[0], result[1], res);
@@ -34,9 +37,6 @@ const readActivities = async (req, res) => {
 
 const readActivityFromId = async (req, res) => {
 	try {
-		//Validation
-		//Not Needed
-
 		//Processing
 		const result = await repo.readActivityFromId(req);
 
@@ -64,9 +64,6 @@ const updateActivity = async (req, res) => {
 
 const deleteActivity = async (req, res) => {
 	try {
-		//Validation
-		// Not Needed
-
 		//Processing
 		const result = await repo.deleteActivity(req);
 

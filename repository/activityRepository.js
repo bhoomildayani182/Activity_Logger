@@ -2,14 +2,14 @@ const Task = require("../src/models/tasks");
 const Activity = require("../src/models/activity");
 const logger = require("../logger");
 
-/// For activity
-
 const createActivity = async (req) => {
 	const token = req.query.token;
 	if (!token) return [404, { error: "Please enter a token" }];
 
 	const decoded = await Task.findOne({ token });
 	if (!decoded) return [400, { error: "Please Provide a valid token" }];
+
+	console.log(req.body);
 
 	const activity = new Activity({
 		...req.body,
@@ -22,7 +22,7 @@ const createActivity = async (req) => {
 		console.log(decoded._id);
 		req.task = task;
 		logger.info(`Activity created for task: ${decoded._id}`);
-		return [201, { activity }];
+		return [201, activity];
 	} catch (error) {
 		logger.error("Error occurred during activity creation");
 		return [400, { error }];
@@ -33,7 +33,7 @@ const readActivities = async (req) => {
 	try {
 		const token = req.query.token;
 		console.log(token);
-		if (!token) return [404, { error: "Please enter a token" }];
+		if (!token) return [400, { error: "Please enter a token" }];
 
 		const decoded = await Task.findOne({ token });
 		if (!decoded) return [400, { error: "Activity not found" }];
@@ -55,13 +55,8 @@ const readActivityFromId = async (req) => {
 	const _id = req.params.id;
 	try {
 		const activity = await Activity.findById(_id);
-		// const activity = await Activity.findOne({
-		//   _id: req.params.id,
-		//   // task : req.query.task_id,
-		// });
 
 		if (!activity) return [404, { error: "Activity not found" }];
-		// const activity = await Activity.findOne({ _id, owner: req.task._id });
 		console.log(activity);
 
 		if (!activity) return res.status(404).send({ error: "Activity not found" });
@@ -86,7 +81,6 @@ const updateActivity = async (req) => {
 	try {
 		const activity = await Activity.findOne({
 			_id: req.params.id,
-			// task : req.query.task_id,
 		});
 
 		if (!activity) return [404, { error: "Activity not found" }];
@@ -105,7 +99,6 @@ const deleteActivity = async (req) => {
 	try {
 		const activity = await Activity.findOneAndDelete({
 			_id: req.params.id,
-			// task : req.query.task_id,
 		});
 
 		if (!activity) return [404, { error: "Activity not found" }];
