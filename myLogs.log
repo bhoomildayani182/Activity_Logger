@@ -1151,3 +1151,26 @@
 [error] 2022-06-26T07:01:02.437Z Issue occurred in user authentication!
 [info] 2022-06-26T07:01:48.792Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
 [error] 2022-06-26T07:01:53.720Z Issue occurred in user authentication!
+[info] 2022-06-26T07:52:43.963Z User Created
+[info] 2022-06-26T07:53:29.969Z User Authenticated!
+[info] 2022-06-26T07:53:29.970Z Forgot password email sent successfully by User: 62b8104b9365a67ea855c408
+[info] 2022-06-26T07:55:13.442Z User Authenticated!
+[error] 2022-06-26T07:55:13.592Z Error occurred during verifying OTP
+[info] 2022-06-26T07:55:26.994Z User Authenticated!
+[info] 2022-06-26T07:55:27.191Z User: 62b8104b9365a67ea855c408 has verified OTP and password updated successfully
+[info] 2022-06-26T08:01:14.896Z User Authenticated!
+[info] 2022-06-26T08:01:14.904Z Error occurred during Auth Tokens generation.
+[info] 2022-06-26T08:02:53.292Z User Authenticated!
+[info] 2022-06-26T08:02:53.467Z User: 62b8104b9365a67ea855c408 deleted
+[error] 2022-06-26T08:03:15.804Z Error during user creation!!
+[error] 2022-06-26T08:03:23.718Z Error during user logging
+[error] 2022-06-26T08:03:37.227Z Error during user logging
+[error] 2022-06-26T08:03:48.375Z Error during user logging
+[error] 2022-06-26T08:03:52.637Z Error during user logging
+[info] 2022-06-26T08:03:58.488Z User: 62b7e4f1cce545a0e2153c66 logged in successfully!
+[info] 2022-06-26T08:05:22.109Z User Authenticated!
+[info] 2022-06-26T08:05:22.118Z Error occurred during Auth Tokens generation.
+[info] 2022-06-26T08:05:23.614Z User Authenticated!
+[info] 2022-06-26T08:05:23.627Z Error occurred during Auth Tokens generation.
+[info] 2022-06-26T08:05:40.366Z User Authenticated!
+[info] 2022-06-26T08:05:40.459Z Auth Tokens are generated for User : 62b7e4f1cce545a0e2153c66

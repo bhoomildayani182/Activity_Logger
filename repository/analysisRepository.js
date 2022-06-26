@@ -92,9 +92,36 @@ const activityCountMonthly = async (req) => {
 	}
 };
 
+const activityCountDynamically = async (req) => {
+	try {
+		const ActivityName = req.body.ActivityName;
+		const activity = await Activity.find({ ActivityName });
+
+		if (!activity) return [404, { error: "Activity Not Found" }];
+
+		let date1 = new Date(req.body.toDate);
+		let date2 = new Date(req.body.fromDate);
+		console.log(date1);
+		console.log(date2);
+
+		for (var i = 0; activity[i] !== undefined; i++) {
+			var creDate = activity[i].createdAt.setHours(0, 0, 0, 0);
+			if (creDate > date1 || creDate <= date2) {
+				delete activity[i];
+			}
+		}
+
+		return [200, { "Number of activities": Object.keys(activity).length }];
+	} catch (e) {
+		logger.error("Error occurred during activity counting");
+		return [500, e];
+	}
+};
+
 module.exports = {
 	activityCount,
 	activityCountDaily,
 	activityCountMonthly,
 	activityCountWeekly,
+	activityCountDynamically,
 };
